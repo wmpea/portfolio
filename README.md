@@ -1,6 +1,6 @@
 # <b>BIO</b>
 
-I'm <b>William Matthew Peaster.</b>
+### I'm <b>William Matthew Peaster.</b>
 
 -a permalancer <b>professional writer, editor, and consultant</b> living in Florida
 
