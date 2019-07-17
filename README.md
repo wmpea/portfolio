@@ -26,7 +26,7 @@
 
 -<b>Blockonomi</b> (<i>Cryptocurrency news writing</i>)
 
--<b>Bitsonline</b> (<i>Cryptocurrency news writing, junior editor</i>)
+-<b>Bitsonline</b> (<i>Cryptocurrency news writing, associate editor</i>)
 
 -<b>Noir Tower</b> (<i>Technical writing consultant</i>)
 
