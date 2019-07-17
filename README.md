@@ -14,7 +14,7 @@
 
 -preparing to learn the <b>Python and Solidity</b> programming languages
 
--playing <b>chess</b>
+-playing <b>chess</b> (1. d4 ... your move!)
 
 # <b>EDUCATION</b> 
 
