@@ -87,7 +87,7 @@
 
 -[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
 
--["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in poetry competition held by [Harvard *Simplicissimus* Fall 2014 edition](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28)
+-["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in poetry competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
 ![Imgur](https://i.imgur.com/EAIJVzO.png)
 
