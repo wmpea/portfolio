@@ -99,4 +99,4 @@
 
 ***
 
-*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept agreed-upon business payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), bitcoin ([3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU](https://www.blockchain.com/btc/address/3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU)), and ether or dai ([writer.gimmethe.eth](0x68AcC36d8bf96e1A9216172A45FE22f8BeCAa937)).*
+*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept agreed-upon business payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), bitcoin ([3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU](https://www.blockchain.com/btc/address/3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU)), and ether or dai ([writer.gimmethe.eth](https://etherscan.io/address/writer.gimmethe.eth)).*
