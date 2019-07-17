@@ -6,7 +6,7 @@
 
 -recently covering the <b>Bitcoin and Ethereum beats</b> in the cryptoeconomy
 
--experienced <b>wordsmithing</b> across many fields
+-experienced in <b>wordsmithing</b> across many fields
 
 -writing a <b>novel</b>, <i>Devils in the Box</i>
 
