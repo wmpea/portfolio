@@ -63,7 +63,7 @@
 -The 1st edition of Christopher Poindexter's best-selling [poetry chapbook *Lavender*](https://www.amazon.com/Lavender-Christopher-Poindexter/dp/168241129X/ref=pd_rhf_dp_p_img_2?_encoding=UTF8&psc=1&refRID=8D50EBD5E9VZ6C08QFGA
 )
 
--Minor open-source copyediting in [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and [ZCash GitHub](https://github.com/zcash/zcash/pull/3927)
+-Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [ZCash GitHub](https://github.com/zcash/zcash/pull/3927)
 
 ![Imgur](https://i.imgur.com/VFz8U5K.png)
 
