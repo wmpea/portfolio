@@ -67,9 +67,9 @@
 -The 1st edition of Christopher Poindexter's best-selling [poetry chapbook *Lavender*](https://www.amazon.com/Lavender-Christopher-Poindexter/dp/168241129X/ref=pd_rhf_dp_p_img_2?_encoding=UTF8&psc=1&refRID=8D50EBD5E9VZ6C08QFGA
 )
 
--Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [ZCash GitHub](https://github.com/zcash/zcash/pull/3927)
-
 ![Imgur](https://i.imgur.com/eyFYODP.png)
+
+-Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [ZCash GitHub](https://github.com/zcash/zcash/pull/3927)
 
 ### Reviews
 
@@ -87,7 +87,7 @@
 
 <a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
 
--My *Phantastikon* poem ["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in poetry competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
+-["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in poetry competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
