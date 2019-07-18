@@ -66,6 +66,10 @@
 
 ![Imgur](https://i.imgur.com/gQUbwM5.png)
 
+![Imgur](https://i.imgur.com/eqejFXd.png)
+
+![Imgur](https://i.imgur.com/Q3WpQE6.png)
+
 ### Editing 
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
