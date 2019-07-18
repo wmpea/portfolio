@@ -68,7 +68,7 @@
 
 ![Imgur](https://i.imgur.com/oYb06KF.png)
 
-![Imgur](https://i.imgur.com/oxDpYjt.png)
+![Imgur](https://i.imgur.com/9GX9mWO.png)
 
 ### Editing 
 
