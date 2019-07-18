@@ -20,9 +20,9 @@
 
 # <b>EDUCATION</b> 
 
-<i>University of West Florida</i>, Bachelor’s degree, <b>Creative Writing</b> (2014)
+-<i>University of West Florida</i>, Bachelor’s degree, <b>Creative Writing</b> (2014)
 
-<i>Enterprise-Ozark State Community College</i>, Associate’s degree, <b>English</b> (2012)
+-<i>Enterprise-Ozark State Community College</i>, Associate’s degree, <b>English</b> (2012)
 
 # <b>WORK HISTORY (<i>past 5 years</i>)</b>
 
@@ -81,15 +81,13 @@
 
 -[“I have shored against my ruins”: Fragmentation in The Waste Land](https://www.academia.edu/33744927/_I_have_shored_against_my_ruins_Fragmentation_in_T._S._Eliots_The_Waste_Land)
 
--20 entries in The SAGE Encyclopedia of Cancer and Society (2015)
-
 ### Creative writing
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
 
 <a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
 
--["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
+-["On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
@@ -103,7 +101,7 @@
 
 -[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
 
--Cover design ([Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
+-Directly below is the cover design (by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
 
 <a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
