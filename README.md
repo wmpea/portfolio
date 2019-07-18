@@ -56,6 +56,10 @@
 
 -[It's Alive! NASA Discovers Cactus Vegetation on Mars - *Fictional sample*](https://docs.google.com/document/d/1M7UYwm00dmz6CxSe767VcmhS_60komtyc-Im_vwThys/edit?usp=sharing)
 
+### PR / Business writing
+
+-[Hoverboard Sharing Startup Rebekkont Raises $14.2 Million in Series A Round - *Fictional sample*](https://docs.google.com/document/d/1FKD-yPk7upIheQU5oNW9FhwLHCc0HGR1QOiUvbzQOik/edit?usp=sharing)
+
 ### Editing 
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
