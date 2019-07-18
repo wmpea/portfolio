@@ -46,9 +46,9 @@
 
 ### Blog writing
 
-[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (Got this article out a few days before major outlets)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
+[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (Beat major outlets to this headline by a few days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
-[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (Received a shoutout from ZCash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
+[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (Given a shoutout for quality by ZCash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
 
