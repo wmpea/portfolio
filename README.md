@@ -44,10 +44,6 @@
 
 # <b>PORTFOLIO SAMPLES</b>
 
-### News writing
-
-[It's Alive! NASA Discovers Cactus Vegetation on Mars - *Fictional sample*](https://docs.google.com/document/d/1M7UYwm00dmz6CxSe767VcmhS_60komtyc-Im_vwThys/edit?usp=sharing)
-
 ### Blog writing
 
 [Ethereum “ETH 2.0” Genesis Block May Launch in January 2020](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
@@ -55,6 +51,10 @@
 [On the Zcash Counterfeit Flaw Fix: Questions to Ponder](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
+
+### News writing
+
+[It's Alive! NASA Discovers Cactus Vegetation on Mars - *Fictional sample*](https://docs.google.com/document/d/1M7UYwm00dmz6CxSe767VcmhS_60komtyc-Im_vwThys/edit?usp=sharing)
 
 ### Editing 
 
@@ -71,13 +71,17 @@
 
 ![Jourist Verlags Visual Dictionary - WMP](https://i.imgur.com/cwSMasm.png)
 
-### Academic Writing
+### Reviews
+
+[SafePal S1 Review: Inside the Crypto Hardware Wallet Backed by Binance Labs](https://bitsonline.com/safepal-s1-review/)
+
+### Academic writing
 
 -[Donne’s Doctrinal Heterogeneity in the “Holy Sonnets”](https://www.academia.edu/33744926/John_Donne_s_Doctrinal_Heterogeneity_in_the_Holy_Sonnets_)
 
 -[“I have shored against my ruins”: Fragmentation in The Waste Land](https://www.academia.edu/33744927/_I_have_shored_against_my_ruins_Fragmentation_in_T._S._Eliots_The_Waste_Land)
 
-### Creative Writing
+### Creative writing
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i>)
 
@@ -98,6 +102,20 @@
 <a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 <a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
+
+### Digital art
+
+"et in arcadio ego" - 2019
+
+![Imgur](https://i.imgur.com/oiE7Qjw.png)
+
+"the destruction of gaul" - 2019
+
+![Imgur](https://i.imgur.com/HNbgPoB.png)
+
+"dangerous bridge" - 2019
+
+![Imgur](https://i.imgur.com/hdW6dlX.png)
 
 ***
 
