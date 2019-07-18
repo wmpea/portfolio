@@ -46,15 +46,15 @@
 
 ### Blog writing
 
-[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (Beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
+-[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (Beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
-[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (Given a shoutout for quality by ZCash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
+-[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (Given a shoutout for quality by ZCash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
 
 ### News writing
 
-[It's Alive! NASA Discovers Cactus Vegetation on Mars - *Fictional sample*](https://docs.google.com/document/d/1M7UYwm00dmz6CxSe767VcmhS_60komtyc-Im_vwThys/edit?usp=sharing)
+-[It's Alive! NASA Discovers Cactus Vegetation on Mars - *Fictional sample*](https://docs.google.com/document/d/1M7UYwm00dmz6CxSe767VcmhS_60komtyc-Im_vwThys/edit?usp=sharing)
 
 ### Editing 
 
@@ -73,7 +73,7 @@
 
 ### Reviews
 
-[SafePal S1 Review: Inside the Crypto Hardware Wallet Backed by Binance Labs](https://bitsonline.com/safepal-s1-review/)
+-[SafePal S1 Review: Inside the Crypto Hardware Wallet Backed by Binance Labs](https://bitsonline.com/safepal-s1-review/)
 
 ### Academic writing
 
@@ -103,7 +103,7 @@
 
 -[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
 
-Cover design ([Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
+-Cover design ([Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
 
 <a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
