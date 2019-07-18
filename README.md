@@ -46,9 +46,9 @@
 
 ### Blog writing
 
-[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
+[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi*](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
-[On the Zcash Counterfeit Flaw Fix: Questions to Ponder](https://twitter.com/zooko/status/1092911343932399616)
+[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline*](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
 
@@ -85,6 +85,8 @@
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i>)
 
+<a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
+
 -[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
 
 -[Strawberries](https://github.com/wmpea/words/tree/master/Strawberries) (<i>Selected haiku</i>)
@@ -99,9 +101,9 @@
 
 ![3rd place - WMP](https://i.imgur.com/OBYuzji.png)
 
-<a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+Cover art by Mitch Green for "Thou Unreluctant," the first part of *Devils in the Box*:
 
-<a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
+<a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 ### Digital art
 
