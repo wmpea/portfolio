@@ -60,6 +60,12 @@
 
 -[Hoverboard Sharing Startup Rebekkont Raises $14.2 Million in Series A Round - *Fictional sample*](https://docs.google.com/document/d/1FKD-yPk7upIheQU5oNW9FhwLHCc0HGR1QOiUvbzQOik/edit?usp=sharing)
 
+### Newsletter writing
+
+-Cryptoeconomy 101 - *Fictional sample*
+
+![Imgur](https://i.imgur.com/gQUbwM5.png)
+
 ### Editing 
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
