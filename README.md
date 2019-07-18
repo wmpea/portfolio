@@ -65,9 +65,7 @@
 -Cryptoeconomy 101 - *Sample*
 
 ![Imgur](https://i.imgur.com/XNdIOdX.png)
-
 ![Imgur](https://i.imgur.com/oYb06KF.png)
-
 ![Imgur](https://i.imgur.com/9GX9mWO.png)
 
 ### Editing 
