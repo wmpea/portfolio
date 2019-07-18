@@ -60,16 +60,16 @@
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
 
--The 1st edition of R. H. Sin's best-selling [*Whiskey, Words, and a Shovel* series](https://www.amazon.com/Whiskey-Words-Shovel-R-Sin/dp/1682410188/ref=sr_1_7?keywords=whiskey+words+%26&qid=1562342956&s=books&sr=1-7)
+![Jourist Verlags Visual Dictionary - WMP](https://i.imgur.com/cwSMasm.png)
+
+-The 1st edition of R. H. Sin's best-selling [*Whiskey, Words, and a Shovel* poetry series](https://www.amazon.com/Whiskey-Words-Shovel-R-Sin/dp/1682410188/ref=sr_1_7?keywords=whiskey+words+%26&qid=1562342956&s=books&sr=1-7)
 
 -The 1st edition of Christopher Poindexter's best-selling [poetry chapbook *Lavender*](https://www.amazon.com/Lavender-Christopher-Poindexter/dp/168241129X/ref=pd_rhf_dp_p_img_2?_encoding=UTF8&psc=1&refRID=8D50EBD5E9VZ6C08QFGA
 )
 
 -Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [ZCash GitHub](https://github.com/zcash/zcash/pull/3927)
 
-![Imgur](https://i.imgur.com/VFz8U5K.png)
-
-![Jourist Verlags Visual Dictionary - WMP](https://i.imgur.com/cwSMasm.png)
+[Imgur](https://i.imgur.com/eyFYODP.png)
 
 ### Reviews
 
@@ -83,9 +83,15 @@
 
 ### Creative writing
 
--[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i>)
+-[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
 
 <a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
+
+-My *Phantastikon* poem ["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in poetry competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
+
+![Imgur](https://i.imgur.com/8ydLuuZ.png)
+
+![3rd place - WMP](https://i.imgur.com/OBYuzji.png)
 
 -[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
 
@@ -95,13 +101,7 @@
 
 -[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
 
--["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in poetry competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
-
-![Imgur](https://i.imgur.com/EAIJVzO.png)
-
-![3rd place - WMP](https://i.imgur.com/OBYuzji.png)
-
-Cover art by Mitch Green for "Thou Unreluctant," the first part of *Devils in the Box*:
+Cover design ([Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
 
 <a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
