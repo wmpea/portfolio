@@ -46,9 +46,9 @@
 
 ### Blog writing
 
-[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi*](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
+[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (Got this article out a few days before major outlets)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
-[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline*](https://twitter.com/zooko/status/1092911343932399616)
+[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (Received a shoutout from ZCash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
 
@@ -81,13 +81,15 @@
 
 -[“I have shored against my ruins”: Fragmentation in The Waste Land](https://www.academia.edu/33744927/_I_have_shored_against_my_ruins_Fragmentation_in_T._S._Eliots_The_Waste_Land)
 
+-20 entries in The SAGE Encyclopedia of Cancer and Society (2015)
+
 ### Creative writing
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
 
 <a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
 
--["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in poetry competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
+-["On Sensuality"](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
@@ -121,4 +123,4 @@ Cover design ([Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) 
 
 ***
 
-*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept agreed-upon business payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), bitcoin ([3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU](https://www.blockchain.com/btc/address/3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU)), and ether or dai ([writer.gimmethe.eth](https://etherscan.io/address/writer.gimmethe.eth)).*
+*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept gig payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), bitcoin ([3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU](https://www.blockchain.com/btc/address/3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU)), and ether or dai ([writer.gimmethe.eth](https://etherscan.io/address/writer.gimmethe.eth)).*
