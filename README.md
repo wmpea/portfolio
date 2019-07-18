@@ -69,7 +69,7 @@
 
 -Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [ZCash GitHub](https://github.com/zcash/zcash/pull/3927)
 
-[Imgur](https://i.imgur.com/eyFYODP.png)
+![Imgur](https://i.imgur.com/eyFYODP.png)
 
 ### Reviews
 
