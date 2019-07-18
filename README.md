@@ -62,7 +62,7 @@
 
 ### Newsletter writing
 
--Cryptoeconomy 101 - *Fictional sample*
+-Cryptoeconomy 101 - *Sample*
 
 ![Imgur](https://i.imgur.com/XNdIOdX.png)
 
