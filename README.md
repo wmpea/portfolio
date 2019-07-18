@@ -64,11 +64,11 @@
 
 -Cryptoeconomy 101 - *Fictional sample*
 
-![Imgur](https://i.imgur.com/gQUbwM5.png)
+![Imgur](https://i.imgur.com/XNdIOdX.png)
 
-![Imgur](https://i.imgur.com/eqejFXd.png)
+![Imgur](https://i.imgur.com/oYb06KF.png)
 
-![Imgur](https://i.imgur.com/Q3WpQE6.png)
+![Imgur](https://i.imgur.com/oxDpYjt.png)
 
 ### Editing 
 
