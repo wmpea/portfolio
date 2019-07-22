@@ -48,7 +48,7 @@
 
 -[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
--[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by ZCash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
+-[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
 
@@ -83,7 +83,7 @@
 
 ![Imgur](https://i.imgur.com/eyFYODP.png)
 
--Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [ZCash GitHub](https://github.com/zcash/zcash/pull/3927)
+-Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [Zcash GitHub](https://github.com/zcash/zcash/pull/3927)
 
 ### Reviews
 
