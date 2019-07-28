@@ -4,7 +4,7 @@
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
--a permalancer <b>professional writer, editor, and consultant</b> living in Florida
+-a permalancer <b>professional writer, editor, and consultant</b>
 
 -recently covering the <b>Bitcoin and Ethereum beats</b> in the cryptoeconomy
 
