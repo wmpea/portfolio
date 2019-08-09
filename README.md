@@ -151,15 +151,21 @@
 
 ["et in arcadio ego"](https://www.instagram.com/p/BxWIheiFIDC/) - 2019
 
-![Imgur](https://i.imgur.com/oiE7Qjw.png)
+<p align="center">
+  <img width="580" height="563" src="https://i.imgur.com/oiE7Qjw.png">
+</p>
 
 ["the destruction of gaul"](https://www.instagram.com/p/BxKrNAFFZn8/) - 2019
 
-![Imgur](https://i.imgur.com/HNbgPoB.png)
+<p align="center">
+  <img width="580" height="563" src="https://i.imgur.com/HNbgPoB.png">
+</p>
 
 ["dangerous bridge"](https://www.instagram.com/p/BzuHQ47lozp/) - 2019
 
-![Imgur](https://i.imgur.com/hdW6dlX.png)
+<p align="center">
+  <img width="580" height="563" src="https://i.imgur.com/hdW6dlX.png">
+</p>
 
 Find more of my art and poems on my Instagram: [@gwilymynys](https://www.instagram.com/gwilymynys/)
 
