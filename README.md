@@ -50,7 +50,7 @@
 
 -[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
-![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
+<p align="center">![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)</p>
 
 ### News writing
 
@@ -64,7 +64,7 @@
 
 -[Ethereum Casper Explained on *Binance Academy*](https://www.binance.vision/blockchain/ethereum-casper-explained)
 
-![Casper Explained - WMP](https://image.binance.vision/uploads/wAtYAuwUgFL5xLieJuUv.png)
+<p align="center">![Casper Explained - WMP](https://image.binance.vision/uploads/wAtYAuwUgFL5xLieJuUv.png)</p>
 
 ### Newsletter writing
 
