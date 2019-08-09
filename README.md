@@ -60,6 +60,12 @@
 
 -[Hoverboard Sharing Startup Rebekkont Raises $14.2 Million in Series A Round - *Fictional sample*](https://docs.google.com/document/d/1FKD-yPk7upIheQU5oNW9FhwLHCc0HGR1QOiUvbzQOik/edit?usp=sharing)
 
+### Educational Writing
+
+-[Ethereum Casper Explained on *Binance Academy*](https://www.binance.vision/blockchain/ethereum-casper-explained)
+
+![Casper Explained - WMP](https://image.binance.vision/uploads/wAtYAuwUgFL5xLieJuUv.png)
+
 ### Newsletter writing
 
 -Cryptoeconomy 101 - *Sample*
