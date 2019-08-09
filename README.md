@@ -119,13 +119,13 @@
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
 
-![Imgur](https://i.imgur.com/a/Nm2Q9rp)
+![Imgur](https://i.imgur.com/ciapOM9.jpg)
 
 -["On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
-![Imgur](https://i.imgur.com/OBYuzji)
+![Imgur](https://i.imgur.com/OBYuzji.png)
 
 -[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
 
