@@ -62,7 +62,7 @@
 
 ### Educational Writing
 
--[Ethereum Casper Explained on *Binance Academy*](https://www.binance.vision/blockchain/ethereum-casper-explained)
+-[Ethereum Casper Explained - *Binance Academy*](https://www.binance.vision/blockchain/ethereum-casper-explained)
 
 ![Imgur](https://i.imgur.com/0UkU6Ls.png)
 
@@ -80,7 +80,7 @@
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
 
-![Imgur](https://i.imgur.com/COmcG3F.jpg)
+![Imgur](https://i.imgur.com/cwSMasm.png)
 
 -The 1st edition of R. H. Sin's best-selling [*Whiskey, Words, and a Shovel* poetry series](https://www.amazon.com/Whiskey-Words-Shovel-R-Sin/dp/1682410188/ref=sr_1_7?keywords=whiskey+words+%26&qid=1562342956&s=books&sr=1-7)
 
