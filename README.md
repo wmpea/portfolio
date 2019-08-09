@@ -50,7 +50,9 @@
 
 -[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
-![Zooko Shoutout - WMP](https://i.imgur.com/XT2h6Rk.png)
+<p align="center">
+  <img width="559" height="558" src="https://i.imgur.com/XT2h6Rk.png">
+</p>
 
 ### News writing
 
@@ -64,30 +66,42 @@
 
 -[Ethereum Casper Explained on *Binance Academy*](https://www.binance.vision/blockchain/ethereum-casper-explained)
 
-![Casper Explained - WMP](https://image.binance.vision/uploads/wAtYAuwUgFL5xLieJuUv.png)
+<p align="center">
+  <img width="810" height="456" src="https://image.binance.vision/uploads/wAtYAuwUgFL5xLieJuUv.png">
+</p>
 
 ### Newsletter writing
 
 -Cryptoeconomy 101 - *Sample*
 
-![Imgur](https://i.imgur.com/XNdIOdX.png)
+<p align="center">
+  <img width="390" height="522" src="https://i.imgur.com/XNdIOdX.png">
+</p>
 
-![Imgur](https://i.imgur.com/oYb06KF.png)
+<p align="center">
+  <img width="385" height="391" src="https://i.imgur.com/XNdIOdX.png">
+</p>
 
-![Imgur](https://i.imgur.com/9GX9mWO.png)
+<p align="center">
+  <img width="386" height="350" src="https://i.imgur.com/9GX9mWO.png">
+</p>
 
 ### Editing 
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
 
-![Jourist Verlags Visual Dictionary - WMP](https://i.imgur.com/cwSMasm.png)
+<p align="center">
+  <img width="605" height="467" src="https://i.imgur.com/cwSMasm.png">
+</p>
 
 -The 1st edition of R. H. Sin's best-selling [*Whiskey, Words, and a Shovel* poetry series](https://www.amazon.com/Whiskey-Words-Shovel-R-Sin/dp/1682410188/ref=sr_1_7?keywords=whiskey+words+%26&qid=1562342956&s=books&sr=1-7)
 
 -The 1st edition of Christopher Poindexter's best-selling [poetry chapbook *Lavender*](https://www.amazon.com/Lavender-Christopher-Poindexter/dp/168241129X/ref=pd_rhf_dp_p_img_2?_encoding=UTF8&psc=1&refRID=8D50EBD5E9VZ6C08QFGA
 )
 
-![Imgur](https://i.imgur.com/eyFYODP.png)
+<p align="center">
+  <img width="556" height="504" src="https://i.imgur.com/eyFYODP.png">
+</p>
 
 -Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [Zcash GitHub](https://github.com/zcash/zcash/pull/3927)
 
@@ -105,13 +119,19 @@
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
 
-<a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
+<p align="center">
+  <img width="728" height="544" src="https://imgur.com/a/Nm2Q9rp">
+</p>
 
 -["On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
-![Imgur](https://i.imgur.com/8ydLuuZ.png)
+<p align="center">
+  <img width="299" height="391" src="https://i.imgur.com/8ydLuuZ.png">
+</p>
 
-![3rd place - WMP](https://i.imgur.com/OBYuzji.png)
+<p align="center">
+  <img width="511" height="490" src="https://i.imgur.com/8ydLuuZ.png">
+</p>
 
 -[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
 
@@ -123,7 +143,9 @@
 
 -Directly below is the cover design (by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
 
-<a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<p align="center">
+  <img width="794" height="964" src="https://ibb.co/ysjF7jy">
+</p>
 
 ### Digital art
 
