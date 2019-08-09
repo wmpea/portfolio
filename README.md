@@ -119,19 +119,13 @@
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
 
-<p align="center">
-  <img width="728" height="544" src="https://imgur.com/a/Nm2Q9rp">
-</p>
+![Imgur](https://imgur.com/a/Nm2Q9rp)
 
 -["On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
-<p align="center">
-  <img width="299" height="391" src="https://i.imgur.com/8ydLuuZ.png">
-</p>
+![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
-<p align="center">
-  <img width="511" height="490" src="https://i.imgur.com/8ydLuuZ.png">
-</p>
+![Imgur](https://imgur.com/OBYuzji)
 
 -[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
 
@@ -143,9 +137,7 @@
 
 -Directly below is the cover design (by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
 
-<p align="center">
-  <img width="794" height="964" src="https://ibb.co/ysjF7jy">
-</p>
+![Imgur](https://ibb.co/ysjF7jy)
 
 ### Digital art
 
