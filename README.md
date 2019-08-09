@@ -130,7 +130,7 @@
 </p>
 
 <p align="center">
-  <img width="511" height="490" src="https://i.imgur.com/ciapOM9.jpg">
+  <img width="511" height="490" src="https://i.imgur.com/OBYuzji.png">
 </p>
 
 -[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
