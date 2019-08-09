@@ -50,9 +50,7 @@
 
 -[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
-<p align="center">
-  <img width="559" height="558" src="https://i.imgur.com/XT2h6Rk.png">
-</p>
+![Imgur](https://i.imgur.com/XT2h6Rk.png)
 
 ### News writing
 
@@ -66,42 +64,30 @@
 
 -[Ethereum Casper Explained on *Binance Academy*](https://www.binance.vision/blockchain/ethereum-casper-explained)
 
-<p align="center">
-  <img width="810" height="456" src="https://image.binance.vision/uploads/wAtYAuwUgFL5xLieJuUv.png">
-</p>
+![Imgur](https://i.imgur.com/0UkU6Ls.png)
 
 ### Newsletter writing
 
 -Cryptoeconomy 101 - *Sample*
 
-<p align="center">
-  <img width="390" height="522" src="https://i.imgur.com/XNdIOdX.png">
-</p>
+![Imgur](https://i.imgur.com/XNdIOdX.png)
 
-<p align="center">
-  <img width="385" height="391" src="https://i.imgur.com/oYb06KF.png">
-</p>
+![Imgur](https://i.imgur.com/oYb06KF.png)
 
-<p align="center">
-  <img width="386" height="350" src="https://i.imgur.com/9GX9mWO.png">
-</p>
+![Imgur](https://i.imgur.com/9GX9mWO.png)
 
 ### Editing 
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
 
-<p align="center">
-  <img width="605" height="467" src="https://i.imgur.com/cwSMasm.png">
-</p>
+![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
 -The 1st edition of R. H. Sin's best-selling [*Whiskey, Words, and a Shovel* poetry series](https://www.amazon.com/Whiskey-Words-Shovel-R-Sin/dp/1682410188/ref=sr_1_7?keywords=whiskey+words+%26&qid=1562342956&s=books&sr=1-7)
 
 -The 1st edition of Christopher Poindexter's best-selling [poetry chapbook *Lavender*](https://www.amazon.com/Lavender-Christopher-Poindexter/dp/168241129X/ref=pd_rhf_dp_p_img_2?_encoding=UTF8&psc=1&refRID=8D50EBD5E9VZ6C08QFGA
 )
 
-<p align="center">
-  <img width="556" height="504" src="https://i.imgur.com/eyFYODP.png">
-</p>
+![Imgur](https://i.imgur.com/eyFYODP.png)
 
 -Minor open-source copyediting in the [Ethereum GitHub](https://github.com/ethereum/eth2.0-specs/pull/848) and the [Zcash GitHub](https://github.com/zcash/zcash/pull/3927)
 
@@ -119,19 +105,13 @@
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
 
-<p align="center">
-  <img width="753" height="563" src="https://i.imgur.com/ciapOM9.jpg">
-</p>
+![Imgur](https://i.imgur.com/ciapOM9.jpg)
 
 -["On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
-<p align="center">
-  <img width="299" height="291" src="https://i.imgur.com/8ydLuuZ.png">
-</p>
+![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
-<p align="center">
-  <img width="511" height="490" src="https://i.imgur.com/OBYuzji.png">
-</p>
+![Imgur](https://i.imgur.com/OBYuzji.png)
 
 -[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
 
@@ -143,29 +123,23 @@
 
 -Directly below is the cover design (by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
 
-<p align="center">
-  <img width="753" height="563" src="https://i.imgur.com/0hlkhOL.jpg">
-</p>
+![Imgur](https://i.imgur.com/0hlkhOL.jpg)
 
 ### Digital art
 
 ["et in arcadio ego"](https://www.instagram.com/p/BxWIheiFIDC/) - 2019
 
-<p align="center">
-  <img width="580" height="563" src="https://i.imgur.com/oiE7Qjw.png">
-</p>
+![Imgur](https://i.imgur.com/oiE7Qjw.png)
+
 
 ["the destruction of gaul"](https://www.instagram.com/p/BxKrNAFFZn8/) - 2019
 
-<p align="center">
-  <img width="580" height="563" src="https://i.imgur.com/HNbgPoB.png">
-</p>
+![Imgur](https://i.imgur.com/HNbgPoB.png)
 
 ["dangerous bridge"](https://www.instagram.com/p/BzuHQ47lozp/) - 2019
 
-<p align="center">
-  <img width="580" height="563" src="https://i.imgur.com/hdW6dlX.png">
-</p>
+![Imgur](https://i.imgur.com/hdW6dlX.png)
+
 
 Find more of my art and poems on my Instagram: [@gwilymynys](https://www.instagram.com/gwilymynys/)
 
