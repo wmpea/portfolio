@@ -121,17 +121,19 @@
 
 ### Digital art
 
-"et in arcadio ego" - 2019
+["et in arcadio ego"](https://www.instagram.com/p/BxWIheiFIDC/) - 2019
 
 ![Imgur](https://i.imgur.com/oiE7Qjw.png)
 
-"the destruction of gaul" - 2019
+["the destruction of gaul"](https://www.instagram.com/p/BxKrNAFFZn8/) - 2019
 
 ![Imgur](https://i.imgur.com/HNbgPoB.png)
 
-"dangerous bridge" - 2019
+["dangerous bridge"](https://www.instagram.com/p/BzuHQ47lozp/) - 2019
 
 ![Imgur](https://i.imgur.com/hdW6dlX.png)
+
+Find more of my art and poems on my Instagram: [@gwilymynys](https://www.instagram.com/gwilymynys/)
 
 ***
 
