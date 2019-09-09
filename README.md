@@ -6,7 +6,7 @@
 
 -a permalancer <b>professional writer, editor, and consultant</b>
 
--recently covering the <b>Bitcoin and Ethereum beats</b> in the cryptoeconomy
+-specializing in the <b>Bitcoin, Ethereum, and [Dai](https://github.com/apbendi/use-dai#freelancers) beats</b> in the cryptoeconomy
 
 -experienced in <b>wordsmithing</b> across many fields
 
