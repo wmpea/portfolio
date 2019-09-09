@@ -52,6 +52,8 @@
 
 ![Imgur](https://i.imgur.com/XT2h6Rk.png)
 
+![Imgur](https://i.imgur.com/SQVd74h.png)
+
 ### News writing
 
 -[It's Alive! NASA Discovers Cactus Vegetation on Mars - *Fictional sample*](https://docs.google.com/document/d/1M7UYwm00dmz6CxSe767VcmhS_60komtyc-Im_vwThys/edit?usp=sharing)
@@ -63,6 +65,8 @@
 ### Educational Writing
 
 -[Ethereum Casper Explained - *Binance Academy*](https://www.binance.vision/blockchain/ethereum-casper-explained)
+
+-[What Is Mimblewimble? - *Binance Academy*](https://www.binance.vision/blockchain/what-is-mimblewimble)
 
 ![Imgur](https://i.imgur.com/0UkU6Ls.png)
 
