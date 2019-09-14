@@ -14,7 +14,7 @@
 
 -studying <b>[German](https://github.com/wmpea/words/blob/master/Six%20Kisses%20Times%20Six%20Languages/%C3%9Cber%20die%20Sinnlichkeit%20(German)) and [Interlingua](https://github.com/wmpea/words/tree/master/Le%20Parolas)</b>, with Spanish and French on the slate
 
--preparing to learn the <b>Python and Solidity</b> programming languages
+-preparing to learn the <b>Solidity</b> programming language
 
 -playing <b>chess</b> (1. d4 ... your move)
 
