@@ -28,6 +28,8 @@
 
 -<b>Jack Wild Publishing</b> (<i>Poetry editor</i>)
 
+-<b>Securities Ventures</b> (<i>Newsletter writing</i>)
+
 -<b>Blockonomi</b> (<i>Cryptocurrency news writing</i>)
 
 -<b>Bitsonline</b> (<i>Cryptocurrency news writing, associate editor</i>)
