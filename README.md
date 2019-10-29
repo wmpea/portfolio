@@ -26,6 +26,8 @@
 
 # <b>WORK HISTORY (<i>past 5 years</i>)</b>
 
+-<b>Jack Wild Publishing</b> (<i>Poetry editor</i>)
+
 -<b>Blockonomi</b> (<i>Cryptocurrency news writing</i>)
 
 -<b>Bitsonline</b> (<i>Cryptocurrency news writing, associate editor</i>)
@@ -44,7 +46,7 @@
 
 # <b>PORTFOLIO SAMPLES</b>
 
-### Blog writing
+### Article writing
 
 -[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
