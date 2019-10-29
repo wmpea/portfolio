@@ -10,7 +10,7 @@
 
 -experienced in <b>wordsmithing</b> across many fields
 
--writing a <b>novel</b>, <i>Devils in the Box</i>, and [poetry](https://www.instagram.com/gwilymynys/)
+-writing a <b>novel</b>, <i>Devils in the Box</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
 -studying <b>[German](https://github.com/wmpea/words/blob/master/Six%20Kisses%20Times%20Six%20Languages/%C3%9Cber%20die%20Sinnlichkeit%20(German)) and [Interlingua](https://github.com/wmpea/words/tree/master/Le%20Parolas)</b>, with Spanish and French on the slate
 
