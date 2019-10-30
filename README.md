@@ -50,6 +50,8 @@
 
 ### Article writing
 
+-[Ethereum the Transcendental - *Personal blog*](https://medium.com/@wmpeaster/ethereum-the-transcendental-c4f536d9f263)
+
 -[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
 -[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
@@ -111,34 +113,31 @@
 
 ### Creative writing
 
--[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i> - cover design by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/))
-
-![Imgur](https://i.imgur.com/ciapOM9.jpg)
-
--["On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
+-[My poem "On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
 
--[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
+Recent selected poems include:
 
--[Strawberries](https://github.com/wmpea/words/tree/master/Strawberries) (<i>Selected haiku</i>)
+["Transfer Teem"](https://www.instagram.com/p/B4MN0-KlhIy/)
 
--[Six Kisses Times Six Languages](https://github.com/wmpea/words/tree/master/Six%20Kisses%20Times%20Six%20Languages) (<i>Translations of poem "On Sensuality"</i>)
+![Imgur](https://imgur.com/sbUNE0M)
 
--[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
+["Devils in the Box"](https://www.instagram.com/p/B2-AHP2pFK_/)
 
--Directly below is the cover design (by [Mitch Green](https://radpublishing-mitchgreen.myportfolio.com/)) for "Thou Unreluctant," part one of my in-progress trilogy novel *Devils in the Box*:
+![Imgur](https://imgur.com/9X3j6Am)
 
-![Imgur](https://i.imgur.com/0hlkhOL.jpg)
+["Dream Pops Above the Zoo"](https://www.instagram.com/p/B1SXg2_F2Mq/)
+
+![Imgur](https://imgur.com/aONr1Nf)
 
 ### Digital art
 
 ["et in arcadio ego"](https://www.instagram.com/p/BxWIheiFIDC/) - 2019
 
 ![Imgur](https://i.imgur.com/oiE7Qjw.png)
-
 
 ["the destruction of gaul"](https://www.instagram.com/p/BxKrNAFFZn8/) - 2019
 
