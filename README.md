@@ -127,7 +127,7 @@ Selected poems:
 
 ["Devils in the Box"](https://www.instagram.com/p/B2-AHP2pFK_/)
 
-![Imgur]([https://i.imgur.com/9X3j6Am.png[/img])
+![Imgur](https://i.imgur.com/9X3j6Am.png[/img])
 
 ["Dream Pops Above the Zoo"](https://www.instagram.com/p/B1SXg2_F2Mq/)
 
