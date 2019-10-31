@@ -121,17 +121,17 @@
 
 Recent selected poems include:
 
-["Transfer Teem"](https://www.instagram.com/p/B4MN0-KlhIy/)
+["Transfer Teem"](https://www.instagram.com/p/B4MN0-KlhIy/]
 
-![Imgur](https://imgur.com/sbUNE0M)
+![Imgur](https://i.imgur.com/sbUNE0M.png[/img])
 
-["Devils in the Box"](https://www.instagram.com/p/B2-AHP2pFK_/)
+["Devils in the Box"]https://www.instagram.com/p/B2-AHP2pFK_/)
 
-![Imgur](https://imgur.com/9X3j6Am)
+![Imgur]([https://i.imgur.com/9X3j6Am.png[/img])
 
 ["Dream Pops Above the Zoo"](https://www.instagram.com/p/B1SXg2_F2Mq/)
 
-![Imgur](https://imgur.com/aONr1Nf)
+![Imgur](https://i.imgur.com/aONr1Nf.png[/img])
 
 ### Digital art
 
