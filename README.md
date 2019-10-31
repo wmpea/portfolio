@@ -119,11 +119,11 @@
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
 
-Recent selected poems include:
+Selected poems:
 
 ["Transfer Teem"](https://www.instagram.com/p/B4MN0-KlhIy/]
 
-![Imgur](https://i.imgur.com/sbUNE0M.png[/img])
+![Imgur](https://i.imgur.com/sbUNE0M.png)
 
 ["Devils in the Box"]https://www.instagram.com/p/B2-AHP2pFK_/)
 
