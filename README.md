@@ -121,11 +121,11 @@
 
 Selected poems:
 
-["Transfer Teem"](https://www.instagram.com/p/B4MN0-KlhIy/]
+["Transfer Teem"](https://www.instagram.com/p/B4MN0-KlhIy/)
 
-![Imgur](https://i.imgur.com/sbUNE0M.png)
+![Imgur](https://i.imgur.com/sbUNE0M.png[/img])
 
-["Devils in the Box"]https://www.instagram.com/p/B2-AHP2pFK_/)
+["Devils in the Box"](https://www.instagram.com/p/B2-AHP2pFK_/)
 
 ![Imgur]([https://i.imgur.com/9X3j6Am.png[/img])
 
