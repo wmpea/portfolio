@@ -6,7 +6,7 @@
 
 -a permalancer <b>professional writer, editor, and consultant</b>
 
--specializing in the <b>Bitcoin, Ethereum, and [Dai](https://github.com/apbendi/use-dai#freelancers) beats</b> in the cryptoeconomy
+-specializing in the <b>Bitcoin, [Ethereum](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), and [Dai](https://github.com/apbendi/use-dai#freelancers) beats</b> in the cryptoeconomy
 
 -experienced in <b>wordsmithing</b> across many fields
 
@@ -50,13 +50,15 @@
 
 ### Article writing
 
--[Ethereum the Transcendental - *Personal blog*](https://medium.com/@wmpeaster/ethereum-the-transcendental-c4f536d9f263)
-
 -[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
 -[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Imgur](https://i.imgur.com/XT2h6Rk.png)
+
+-[Ethereum the Transcendental - *Personal blog*](https://medium.com/@wmpeaster/ethereum-the-transcendental-c4f536d9f263)
+
+-[ETH Is Art - *Personal blog*](https://medium.com/@wmpeaster/eth-is-art-44d0ca31a532)
 
 ### News writing
 
