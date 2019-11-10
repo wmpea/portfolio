@@ -4,7 +4,7 @@
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
--a permalancer <b>professional writer, editor, and wordsmithing consultant</b>
+-a permalancer <b>professional writer</b>, <b>editor</b>, and <b>wordsmithing consultant</b>
 
 -specializing in the <b>Bitcoin, [Ethereum](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), and [Dai](https://github.com/apbendi/use-dai#freelancers) beats</b> in the cryptoeconomy
 
