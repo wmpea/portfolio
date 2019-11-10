@@ -4,17 +4,15 @@
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
--a permalancer <b>professional writer, editor, and consultant</b>
+-a permalancer <b>professional writer, editor, and wordsmithing consultant</b>
 
 -specializing in the <b>Bitcoin, [Ethereum](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), and [Dai](https://github.com/apbendi/use-dai#freelancers) beats</b> in the cryptoeconomy
 
--experienced in <b>wordsmithing</b> across many fields
+-learning <b>German</b>
 
--writing a <b>novel</b>, <i>Devils in the Box</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
+-preparing to learn <b>Solidity</b>
 
--studying <b>[German](https://github.com/wmpea/words/blob/master/Six%20Kisses%20Times%20Six%20Languages/%C3%9Cber%20die%20Sinnlichkeit%20(German)) and [Interlingua](https://github.com/wmpea/words/tree/master/Le%20Parolas)</b>, with French on the slate
-
--preparing to learn the <b>Solidity</b> programming language
+-writing a <b>novel</b>, <i>Devils in the Egg</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
 -playing <b>chess</b> (1. d4 ... your move)
 
