@@ -6,7 +6,7 @@
 
 -a permalancer <b>professional writer</b>, <b>editor</b>, and <b>wordsmithing consultant</b>
 
--specializing in the <b>Bitcoin</b>, [<b>Ethereum</b>](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), and [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers) beats in the cryptoeconomy
+-specializing in the <b>Bitcoin</b>, [<b>Ethereum</b>](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), and [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers) beats
 
 -preparing to learn the <b>Solidity</b> programming language
 
