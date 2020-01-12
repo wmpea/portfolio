@@ -6,13 +6,13 @@
 
 -a permalancer <b>professional writer</b>, <b>editor</b>, and <b>wordsmithing consultant</b>
 
--specializing in the <b>Bitcoin</b>, [<b>Ethereum</b>](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), and [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers) beats
+-specializing in the [<b>Ethereum</b>](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
 -preparing to learn the <b>Solidity</b> programming language
 
 -learning <b>German</b>
 
--writing a <b>novel</b>, <i>Devils in the Egg</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
+-writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
 -playing <b>chess</b> (1. d4 ... your move)
 
