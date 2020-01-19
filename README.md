@@ -8,7 +8,7 @@
 
 -specializing in the [<b>Ethereum</b>](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
--<b>curator</b> of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-jan-18-2020) 
+-curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-jan-18-2020) 
 
 -preparing to learn the <b>Solidity</b> programming language
 
