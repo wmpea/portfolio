@@ -6,7 +6,7 @@
 
 -a permalancer <b>professional writer</b>, <b>editor</b>, and <b>wordsmithing consultant</b>
 
--specializing in the [<b>Ethereum</b>], [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
+-specializing in the <b>Ethereum</b>, [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
 -curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-jan-18-2020) 
 
