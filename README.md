@@ -6,7 +6,7 @@
 
 -a permalancer <b>professional writer</b>, <b>editor</b>, and <b>wordsmithing consultant</b>
 
--specializing in the [<b>Ethereum</b>](https://platform.pixura.io/collection/0x83a672b0c50405df76e1a25188e77d6efaf456c2), [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
+-specializing in the [<b>Ethereum</b>], [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
 -curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-jan-18-2020) 
 
@@ -15,6 +15,8 @@
 -learning <b>German</b>
 
 -writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
+
+-collecting/creating [<b>NFT digital art</b>](https://opensea.io/assets/defi-art)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
