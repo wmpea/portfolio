@@ -54,6 +54,8 @@
 
 -[Burn Signal, Gitcoin Grants, and Finding Consensus Amid Evolution - *Burn Signal*](https://blog.burnsignal.io/burn-signal-gitcoin-grants/)
 
+-[Protocol Politicians: A Look at The Future Crypto Politics of MakerDAO & Dai Stablecoin - *Blockonomi*](https://blockonomi.com/protocol-politicians-makerdao-dai/)
+
 -[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
 
 -[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
