@@ -64,8 +64,6 @@
 
 -[Ethereum the Transcendental - *Personal blog*](https://medium.com/@wmpeaster/ethereum-the-transcendental-c4f536d9f263)
 
--[ETH Is Art - *Personal blog*](https://medium.com/@wmpeaster/eth-is-art-44d0ca31a532)
-
 ### News writing
 
 -[It's Alive! NASA Discovers Cactus Vegetation on Mars - *Fictional sample*](https://docs.google.com/document/d/1M7UYwm00dmz6CxSe767VcmhS_60komtyc-Im_vwThys/edit?usp=sharing)
