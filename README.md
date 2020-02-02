@@ -133,7 +133,7 @@
 
 ["Up"](https://www.instagram.com/p/B5WpgczlA7u/)
 
-[Imgur](https://i.imgur.com/gMTIUqK.png[/img])
+![Imgur](https://i.imgur.com/gMTIUqK.png[/img])
 
 
 ### Digital art
