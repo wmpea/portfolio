@@ -131,13 +131,10 @@
 
 ![Imgur](https://i.imgur.com/qrRka9f.png[/img])
 
-["Devils in the Box"](https://www.instagram.com/p/B2-AHP2pFK_/)
+["Up"](https://www.instagram.com/p/B5WpgczlA7u/)
 
-![Imgur](https://i.imgur.com/9X3j6Am.png[/img])
+[Imgur](https://i.imgur.com/gMTIUqK.png[/img])
 
-["Dream Pops Above the Zoo"](https://www.instagram.com/p/B1SXg2_F2Mq/)
-
-![Imgur](https://i.imgur.com/aONr1Nf.png[/img])
 
 ### Digital art
 
