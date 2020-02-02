@@ -129,7 +129,7 @@
 
 ["Lost Angel"](https://www.instagram.com/p/B64ep8ylLVG/)
 
-![Imgur](https://i.imgur.com/qrRka9f[/img])
+![Imgur](https://i.imgur.com/qrRka9f.png[/img])
 
 ["Devils in the Box"](https://www.instagram.com/p/B2-AHP2pFK_/)
 
