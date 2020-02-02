@@ -8,7 +8,7 @@
 
 -specializing in the <b>Ethereum</b>, [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
--curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-jan-18-2020) 
+-curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-1-2020) 
 
 -preparing to learn the <b>Solidity</b> programming language
 
@@ -155,4 +155,4 @@ Find more of my art and poems on my Instagram: [@gwilymynys](https://www.instagr
 
 ***
 
-*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept gig payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), bitcoin ([3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU](https://www.blockchain.com/btc/address/3PQXDzcA43SspryoEfsx1JS3JaKkbUswEU)), and ether or Dai ([wmp.etherbase.eth](https://etherscan.io/address/wmp.etherbase.eth)).*
+*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept gig payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), bitcoin, and ether or Dai ([wmp.etherbase.eth](https://etherscan.io/address/wmp.etherbase.eth)).*
