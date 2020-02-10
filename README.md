@@ -16,7 +16,7 @@
 
 -writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
--collecting/creating [<b>NFT digital art</b>](https://opensea.io/assets/defi-art)
+-collecting/creating [<b>NFT digital art</b>](https://opensea.io/accounts/0x08ceb8bba685ee708c9c4c65576837cbe19b9dea)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
