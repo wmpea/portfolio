@@ -84,6 +84,8 @@
 
 ### Newsletter writing
 
+-[DeFi Arts Intelligencer - Feb. 15th](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
+
 -Cryptoeconomy 101 - *Sample*
 
 ![Imgur](https://i.imgur.com/XNdIOdX.png)
