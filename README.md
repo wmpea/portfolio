@@ -8,13 +8,13 @@
 
 -specializing in the <b>Ethereum</b>, [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
--curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-1-2020) 
+-curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-apr-11th) 
 
 -learning <b>German</b>
 
 -writing a <b>novel</b>, <i>Devils in the Black Egg</i>, <b>plays</b>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
--<b>collecting</b> [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
+-collecting [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
@@ -144,16 +144,8 @@
 
 ![Imgur](https://i.imgur.com/qnTcm4b.jpg)
 
-["the destruction of gaul"](https://www.instagram.com/p/BxKrNAFFZn8/) - 2019
 
-![Imgur](https://i.imgur.com/HNbgPoB.png)
-
-["dangerous bridge"](https://www.instagram.com/p/BzuHQ47lozp/) - 2019
-
-![Imgur](https://i.imgur.com/hdW6dlX.png)
-
-
-Find more of my art and poems on my Instagram: [@gwilymynys](https://www.instagram.com/gwilymynys/)
+Find more of my art on my Instagram: [@gwilymynys](https://www.instagram.com/gwilymynys/)
 
 ***
 
