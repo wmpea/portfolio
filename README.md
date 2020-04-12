@@ -10,8 +10,6 @@
 
 -curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-1-2020) 
 
--preparing to learn the <b>Solidity</b> programming language
-
 -learning <b>German</b>
 
 -writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
@@ -53,6 +51,8 @@
 ### Article writing
 
 -[Burn Signal, Gitcoin Grants, and Finding Consensus Amid Evolution - *Burn Signal*](https://blog.burnsignal.io/burn-signal-gitcoin-grants/)
+
+-[Art on Ethereum: a Beginner's Guide to Cryptoart - *defiprime*](https://defiprime.com/cryptoart-on-ethereum)
 
 -[Protocol Politicians: A Look at The Future Crypto Politics of MakerDAO & Dai Stablecoin - *Blockonomi*](https://blockonomi.com/protocol-politicians-makerdao-dai/)
 
@@ -133,9 +133,9 @@
 
 ![Imgur](https://i.imgur.com/qrRka9f.png[/img])
 
-["Up"](https://www.instagram.com/p/B5WpgczlA7u/)
+["Same Distance to God"](https://www.instagram.com/p/B-yaiCzFrKU/)
 
-![Imgur](https://i.imgur.com/gMTIUqK.png[/img])
+![Imgur](https://i.imgur.com/U1azibm.png[/img])
 
 
 ### Digital art
