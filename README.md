@@ -140,9 +140,9 @@
 
 ### Digital art
 
-["et in arcadio ego"](https://www.instagram.com/p/BxWIheiFIDC/) - 2019
+["When Spirits Look On"](https://imgur.com/qnTcm4b)
 
-![Imgur](https://i.imgur.com/oiE7Qjw.png)
+![Imgur](https://i.imgur.com/qnTcm4b.jpg)
 
 ["the destruction of gaul"](https://www.instagram.com/p/BxKrNAFFZn8/) - 2019
 
