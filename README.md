@@ -12,7 +12,7 @@
 
 -learning <b>German</b> and a handful of <b>Romance</b> languages
 
--writing a <b>novel</b>, <i>Devils in the Black Egg</i>, <b>plays</b>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
+-writing a <b>novel</b> called <i>Devils in the Black Egg</i>, as well as <b>plays</b> and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
 -collecting [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
 
