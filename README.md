@@ -84,7 +84,7 @@
 
 ### Newsletter writing
 
--[DeFi Arts Intelligencer - ex. from Feb. 15th](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
+-[DeFi Arts Intelligencer - *ex. from Feb. 15th*](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
 
 ### Editing 
 
