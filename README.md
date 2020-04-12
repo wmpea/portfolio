@@ -8,7 +8,7 @@
 
 -specializing in the <b>Ethereum</b>, [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
--curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-apr-11th) newsletter
+-curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/) newsletter
 
 -learning <b>German</b> and a handful of <b>Romance</b> languages
 
