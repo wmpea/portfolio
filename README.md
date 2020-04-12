@@ -8,9 +8,9 @@
 
 -specializing in the <b>Ethereum</b>, [<b>Dai</b>](https://github.com/apbendi/use-dai#freelancers), and <b>Bitcoin</b> beats
 
--curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-apr-11th) 
+-curator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/p/defi-arts-intelligencer-apr-11th) newsletter
 
--learning <b>German</b>
+-learning <b>German</b> and a handful of <b>Romance</b> languages
 
 -writing a <b>novel</b>, <i>Devils in the Black Egg</i>, <b>plays</b>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
@@ -84,15 +84,7 @@
 
 ### Newsletter writing
 
--[DeFi Arts Intelligencer - Feb. 15th](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
-
--Cryptoeconomy 101 - *Sample*
-
-![Imgur](https://i.imgur.com/XNdIOdX.png)
-
-![Imgur](https://i.imgur.com/oYb06KF.png)
-
-![Imgur](https://i.imgur.com/9GX9mWO.png)
+-[DeFi Arts Intelligencer - ex. from Feb. 15th](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
 
 ### Editing 
 
