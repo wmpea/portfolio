@@ -12,9 +12,9 @@
 
 -learning <b>German</b>
 
--writing a <b>novel</b>, <i>Devils in the Black Egg</i>, <b>[poetry](https://www.instagram.com/gwilymynys/)</b>, and <b>scripts</b>
+-writing a <b>novel</b>, <i>Devils in the Black Egg</i>, <b>plays</b>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
 
--collecting and experimenting with [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
+-<b>collecting</b> [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
