@@ -12,9 +12,9 @@
 
 -learning <b>German</b>
 
--writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](https://www.instagram.com/gwilymynys/)</b>
+-writing a <b>novel</b>, <i>Devils in the Black Egg</i>, <b>[poetry](https://www.instagram.com/gwilymynys/)</b>, and <b>scripts</b>
 
--collecting/creating [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
+-collecting and experimenting with [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
@@ -131,7 +131,7 @@
 
 ["Lost Angel"](https://www.instagram.com/p/B64ep8ylLVG/)
 
-![Imgur](https://i.imgur.com/qrRka9f.png[/img])
+![Imgur](https://i.imgur.com/7lfAQ9m.png[/img])
 
 ["Same Distance to God"](https://www.instagram.com/p/B-yaiCzFrKU/)
 
