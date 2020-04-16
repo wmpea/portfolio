@@ -52,6 +52,8 @@
 
 -[Burn Signal, Gitcoin Grants, and Finding Consensus Amid Evolution - *Burn Signal*](https://blog.burnsignal.io/burn-signal-gitcoin-grants/)
 
+-[Burn Signal, Preference Signaling for Ethereum's Hot Topics - *Burn Signal*](https://blog.burnsignal.io/signaling-for-ethereums-hot-topics/)
+
 -[Art on Ethereum: a Beginner's Guide to Cryptoart - *defiprime*](https://defiprime.com/cryptoart-on-ethereum)
 
 -[Protocol Politicians: A Look at The Future Crypto Politics of MakerDAO & Dai Stablecoin - *Blockonomi*](https://blockonomi.com/protocol-politicians-makerdao-dai/)
