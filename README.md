@@ -12,7 +12,7 @@
 
 -learning <b>German</b> and a handful of <b>Romance</b> languages
 
--writing a <b>novel</b> called <i>Devils in the Black Egg</i>, and <b>[poetry](http://wmpeaster.eth.link/)</b>
+-writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
 -collecting [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
 
