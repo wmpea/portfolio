@@ -120,8 +120,7 @@
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
-
-## Selected poetry (published on IPFS)
+<b>Selected poetry (published on IPFS)</b>
 
 *For Janus*
 
