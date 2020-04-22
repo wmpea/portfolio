@@ -121,7 +121,7 @@
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
 
-<b>Selected poetry (published on IPFS)</b>
+## Selected poetry (published on IPFS)
 
 *For Janus*
 
