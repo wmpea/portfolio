@@ -123,7 +123,7 @@
 
 <b>Selected poetry (published on IPFS)</b>
 
-<b>*For Janus*<b>
+*For Janus*
 
 ["Breakfast" - Apr. 2020](https://gateway.temporal.cloud/ipfs/QmRpuPLQJwDqf7vrYGYXvGcy9zEsKj3bx892T7z8idmc2f)
 
@@ -141,7 +141,7 @@
 
 ["The Lull" - Sept. 2019](https://gateway.temporal.cloud/ipfs/Qmd13JqXdcxxTmgm8UkAAdMHiCmaCKvbbVxef6UZvwBMGr)
 
-<b>*Juvenilia*<b>
+*Juvenilia*
 
 ["On Sensuality" - 2012](https://gateway.temporal.cloud/ipfs/QmSGcw5BkpFxoaiqUQavpKFVEHDiYLH1cHDxZbfyJCKYwN)
 
@@ -155,7 +155,7 @@
 
 ["Things Always Change" - 2017](https://gateway.temporal.cloud/ipfs/QmQYwBym8p4zD8SPQf6R47fub18E3nGJTyWEpZZF721E5L)
 
-<b>*Haikus*<b>
+*Haikus*
 
 ["Glisten" - 2017](https://gateway.temporal.cloud/ipfs/QmWNXvPn7d2JUp4ViC8frn7qRvHqydaJGFBmb6Afi3c9rG)
 
