@@ -115,22 +115,51 @@
 
 ### Creative writing
 
--[My poem "On Sensuality" from *Phantastikon*](https://github.com/wmpea/words/blob/master/Phantastikon/On%20Sensuality) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
+-[My poem "On Sensuality"](https://gateway.temporal.cloud/ipfs/QmSGcw5BkpFxoaiqUQavpKFVEHDiYLH1cHDxZbfyJCKYwN) came in 3rd place in a translation competition held by [Harvard *Simplicissimus*](https://issuu.com/simplicissimusjournal/docs/simpl_f14_german_web/28) Fall 2014 issue
 
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
 
-<b>Selected poems:</b>
+<b>Selected poetry (published on IPFS)</b>
 
-["Lost Angel"](https://www.instagram.com/p/B64ep8ylLVG/)
+<b>*For Janus*<b>
 
-![Imgur](https://i.imgur.com/7lfAQ9m.png[/img])
+["Breakfast" - Apr. 2020](https://gateway.temporal.cloud/ipfs/QmRpuPLQJwDqf7vrYGYXvGcy9zEsKj3bx892T7z8idmc2f)
 
-["Same Distance to God"](https://www.instagram.com/p/B-yaiCzFrKU/)
+["Perpetual Friday" - Apr. 2020](https://gateway.temporal.cloud/ipfs/QmYmxQkrW5JuEbsp3ZVniaK6XsHGS5xYjWnMAjWxiW9NpV)
 
-![Imgur](https://i.imgur.com/U1azibm.png[/img])
+["The Great Lockdown Story" - Apr. 2020](https://gateway.temporal.cloud/ipfs/Qmf5htCkNu33tL1JEEgy5eWwnYLgPJ9McW71d3E2pYx1yC)
 
+["Same Distance to God" - Apr. 2020](https://gateway.temporal.cloud/ipfs/QmfUvXXQjkq6LjkDPt5c7RGdmvatXGh3KHPiePFEaaun68)
+
+["Unrevelation" - Jan. 2020](https://gateway.temporal.cloud/ipfs/QmbCww7ZtBexUrXn8K1Jz8gwpJfHJ1V1mFTjzupzGbj38v)
+
+["Lost Angel" - Jan. 2020](https://gateway.temporal.cloud/ipfs/QmYrKcXvLvaVUpE78AojkMeGDaYHLX4Knc8RwCayD7Wsy1)
+
+["The Actor" - Dec. 2019](https://gateway.temporal.cloud/ipfs/QmfZR7VewLvHqfSsrBAw7VYo3o33ptSLEcsw97yJzSNqMr)
+
+["The Lull" - Sept. 2019](https://gateway.temporal.cloud/ipfs/Qmd13JqXdcxxTmgm8UkAAdMHiCmaCKvbbVxef6UZvwBMGr)
+
+<b>*Juvenilia*<b>
+
+["On Sensuality" - 2012](https://gateway.temporal.cloud/ipfs/QmSGcw5BkpFxoaiqUQavpKFVEHDiYLH1cHDxZbfyJCKYwN)
+
+["Berry Thicket" - 2017](https://gateway.temporal.cloud/ipfs/QmQ2j2fCUWWqxYkL5zYHLAN5UDyWegixPv1kHp6JyLYpYc)
+
+["Dirlewanger" - 2017](https://gateway.temporal.cloud/ipfs/QmUn9zmiFPserG2EwTk8wE3AwE6EV8x29HTSbpmndpoxoJ)
+
+["Poem from the Notes of Andrew Jackson's Biography" - 2017](https://gateway.temporal.cloud/ipfs/QmZzrnCjAJAMeuc6E5g3YzjFqh2d2V3LtCaXV6meGQejsY)
+
+["The Great Unfurling" - 2017](https://gateway.temporal.cloud/ipfs/QmUTwhTDBois3WpXajeUgGXAErrq7ankWBuAFNmFeFYSJP)
+
+["Things Always Change" - 2017](https://gateway.temporal.cloud/ipfs/QmQYwBym8p4zD8SPQf6R47fub18E3nGJTyWEpZZF721E5L)
+
+<b>*Haikus*<b>
+
+["Glisten" - 2017](https://gateway.temporal.cloud/ipfs/QmWNXvPn7d2JUp4ViC8frn7qRvHqydaJGFBmb6Afi3c9rG)
+
+["Overcast" - 2017](https://gateway.temporal.cloud/ipfs/QmNuJc7JXxhAaLFs9aMmCShAX5tquFUj7bZp11A2EWfps2)
 
 ### Digital art
 
