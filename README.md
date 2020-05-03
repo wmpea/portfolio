@@ -14,7 +14,7 @@
 
 -writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--collecting [<b>NFT digital art</b>](https://superrare.co/wmpeaster)
+-[<b>collecting</b>](https://superrare.co/wmpeaster) and [<b>creating</b>](https://opensea.io/storefront/wmp-art) cryptoart
 
 -playing <b>chess</b> (1. d4 ... your move)
 
