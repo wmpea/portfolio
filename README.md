@@ -50,6 +50,8 @@
 
 ### Article writing
 
+-[Async Fundamentals: New Usability Improvements - *Async Art*](https://beta.cent.co/+xan9ik)
+
 -[Burn Signal, Gitcoin Grants, and Finding Consensus Amid Evolution - *Burn Signal*](https://blog.burnsignal.io/burn-signal-gitcoin-grants/)
 
 -[Burn Signal, Preference Signaling for Ethereum's Hot Topics - *Burn Signal*](https://blog.burnsignal.io/signaling-for-ethereums-hot-topics/)
