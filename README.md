@@ -50,6 +50,8 @@
 
 ### Article writing
 
+-[Portrait of an Artist as a Young Etherean: On Winning New Creators to Ethereum](https://editorial.superrare.co/2020/05/28/portrait-of-an-artist-as-a-young-etherean-on-winning-new-creators-to-ethereum/)
+
 -[Async Fundamentals: New Usability Improvements - *Async Art*](https://beta.cent.co/+xan9ik)
 
 -[Burn Signal, Gitcoin Grants, and Finding Consensus Amid Evolution - *Burn Signal*](https://blog.burnsignal.io/burn-signal-gitcoin-grants/)
