@@ -12,7 +12,7 @@
 
 -learning <b>German</b> and a handful of <b>Romance</b> languages
 
--writing a <b>novel</b>, <i>Devils in the Black Egg</i>, and <b>[poetry](http://wmpeaster.eth.link/)</b>
+-writing a <b>fiction</b> and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
 -[<b>collecting</b>](https://superrare.co/wmpeaster) and [<b>creating</b>](https://opensea.io/accounts/0x08ceb8bba685ee708c9c4c65576837cbe19b9dea) NFT cryptoart
 
@@ -49,6 +49,8 @@
 # <b>PORTFOLIO SAMPLES</b>
 
 ### Article writing
+
+-[Inside DeFi Yield Farming: a Beginner's Guide to the Latest Craze in DeFi - *defiprime*](https://defiprime.com/defi-yield-farming)
 
 -[Portrait of an Artist as a Young Etherean: On Winning New Creators to Ethereum - *SuperRare*](https://editorial.superrare.co/2020/05/28/portrait-of-an-artist-as-a-young-etherean-on-winning-new-creators-to-ethereum/)
 
