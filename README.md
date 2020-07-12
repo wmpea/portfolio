@@ -12,7 +12,7 @@
 
 -learning <b>German</b> and a handful of <b>Romance</b> languages
 
--writing a <b>fiction</b> and <b>[poetry](http://wmpeaster.eth.link/)</b>
+-writing <b>fiction</b> and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
 -[<b>collecting</b>](https://superrare.co/wmpeaster) and creating NFT collectibles
 
