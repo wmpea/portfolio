@@ -26,6 +26,12 @@
 
 # <b>WORK HISTORY (<i>past 5 years</i>)</b>
 
+-<b>nft42</b> (<i>Content writer</i>)
+
+-<b>defiprime</b> (<i>DeFi writer</i>)
+
+-<b>ETHwriter</b> (<i>Community Manager</i>)
+
 -<b>Jack Wild Publishing</b> (<i>Poetry editor</i>)
 
 -<b>Securities Ventures</b> (<i>Newsletter writing</i>)
