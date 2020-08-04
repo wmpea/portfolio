@@ -14,7 +14,7 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--[<b>collecting</b>](https://superrare.co/wmpeaster) and creating NFT collectibles
+-[<b>collecting</b>](https://superrare.co/wmpeaster) and [<b>creating</b>](https://app.rarible.com/wmp/onsale) NFT collectibles
 
 -playing <b>chess</b> (1. d4 ... your move)
 
