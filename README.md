@@ -135,7 +135,7 @@
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
 
-<b>Selected poetry</b>
+### Selected poetry
 
 ["I'm" - July 2020](https://www.instagram.com/p/CDDmo3_FpSB/)
 
@@ -151,7 +151,7 @@
 
 ["Portrait of a Millennial"](https://opensea.io/assets/0x2be6dae126185abfcd0c3fce25d971f84bb33f7b/3)
 
-![Imgur]([https://i.imgur.com/7E0r7Lv.png)
+![Imgur](https://i.imgur.com/7E0r7Lv.png) 
 
 Find more of my art on my Instagram: [@gwilymynys](https://www.instagram.com/gwilymynys/)
 
