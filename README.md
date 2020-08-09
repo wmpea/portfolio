@@ -6,7 +6,7 @@
 
 -a permalancer <b>professional writer</b>, <b>editor</b>, and <b>English consultant</b>
 
--specializing in the <b>Ethereum</b>, [<b>DeFi</b>], and <b>NFT</b> beats
+-specializing in the <b>Ethereum</b>, <b>DeFi</b>, and <b>NFT</b> beats
 
 -creator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/) newsletter
 
@@ -157,4 +157,4 @@ Find more of my art on my Instagram: [@gwilymynys](https://www.instagram.com/gwi
 
 ***
 
-*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept gig payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), ETH or ERC-20 tokens ([wmp.etherbase.eth](https://etherscan.io/address/wmp.etherbase.eth), or bitcoin).*
+*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)). I accept gig payments in USD ([paypal.me/wpeaster](paypal.me/wpeaster)), ETH or ERC-20 tokens ([wmp.etherbase.eth](https://etherscan.io/address/wmp.etherbase.eth)), or bitcoin.*
