@@ -14,7 +14,7 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--[<b>collecting</b>](https://superrare.co/wmpeaster) and [<b>creating</b>](https://app.rarible.com/wmp/onsale) NFT collectibles
+-[<b>collecting</b>](https://superrare.co/wmpeaster) and [<b>creating</b>](https://opensea.io/assets/willam-m-peaster-art?search=%7B%22stringTraits%22%3A%5B%7B%22name%22%3A%22artist%20name%22%2C%22values%22%3A%5B%22William%20M.%20Peaster%22%5D%7D%5D%7D) NFT collectibles
 
 -playing <b>chess</b> (1. d4 ... your move)
 
@@ -135,52 +135,23 @@
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
 
-<b>Selected poetry (published on IPFS)</b>
+<b>Selected poetry</b>
 
-*For Janus*
+["I'm" - July 2020](https://www.instagram.com/p/CDDmo3_FpSB/)
 
-["Window Watching" - Apr. 2020](https://gateway.temporal.cloud/ipfs/QmWoin77QhH8ixT2naBP7nAGQ63CiLiCzJKRL7dtpHnhjR)
+["The Path" - Aug. 2020](https://www.instagram.com/p/CDYJwoIlIGa/)
 
-["Perpetual Friday" - Apr. 2020](https://gateway.temporal.cloud/ipfs/QmYmxQkrW5JuEbsp3ZVniaK6XsHGS5xYjWnMAjWxiW9NpV)
-
-["The Great Lockdown Story" - Apr. 2020](https://gateway.temporal.cloud/ipfs/Qmf5htCkNu33tL1JEEgy5eWwnYLgPJ9McW71d3E2pYx1yC)
-
-["Same Distance to God" - Apr. 2020](https://gateway.temporal.cloud/ipfs/QmfUvXXQjkq6LjkDPt5c7RGdmvatXGh3KHPiePFEaaun68)
-
-["Unrevelation" - Jan. 2020](https://gateway.temporal.cloud/ipfs/QmbCww7ZtBexUrXn8K1Jz8gwpJfHJ1V1mFTjzupzGbj38v)
-
-["Lost Angel" - Jan. 2020](https://gateway.temporal.cloud/ipfs/QmYrKcXvLvaVUpE78AojkMeGDaYHLX4Knc8RwCayD7Wsy1)
-
-["The Actor" - Dec. 2019](https://gateway.temporal.cloud/ipfs/QmfZR7VewLvHqfSsrBAw7VYo3o33ptSLEcsw97yJzSNqMr)
-
-["The Lull" - Sept. 2019](https://gateway.temporal.cloud/ipfs/Qmd13JqXdcxxTmgm8UkAAdMHiCmaCKvbbVxef6UZvwBMGr)
-
-*Juvenilia*
-
-["On Sensuality" - 2012](https://gateway.temporal.cloud/ipfs/QmSGcw5BkpFxoaiqUQavpKFVEHDiYLH1cHDxZbfyJCKYwN)
-
-["Berry Thicket" - 2017](https://gateway.temporal.cloud/ipfs/QmQ2j2fCUWWqxYkL5zYHLAN5UDyWegixPv1kHp6JyLYpYc)
-
-["Dirlewanger" - 2017](https://gateway.temporal.cloud/ipfs/QmUn9zmiFPserG2EwTk8wE3AwE6EV8x29HTSbpmndpoxoJ)
-
-["Poem from the Notes of Andrew Jackson's Biography" - 2017](https://gateway.temporal.cloud/ipfs/QmZzrnCjAJAMeuc6E5g3YzjFqh2d2V3LtCaXV6meGQejsY)
-
-["The Great Unfurling" - 2017](https://gateway.temporal.cloud/ipfs/QmUTwhTDBois3WpXajeUgGXAErrq7ankWBuAFNmFeFYSJP)
-
-["Things Always Change" - 2017](https://gateway.temporal.cloud/ipfs/QmQYwBym8p4zD8SPQf6R47fub18E3nGJTyWEpZZF721E5L)
-
-*Haikus*
-
-["Glisten" - 2017](https://gateway.temporal.cloud/ipfs/QmWNXvPn7d2JUp4ViC8frn7qRvHqydaJGFBmb6Afi3c9rG)
-
-["Overcast" - 2017](https://gateway.temporal.cloud/ipfs/QmNuJc7JXxhAaLFs9aMmCShAX5tquFUj7bZp11A2EWfps2)
+["Not on Track" - Aug. 2020](https://www.instagram.com/p/CDnyOG6F-Hs/)
 
 ### Digital art
 
-["When Spirits Look On"](https://imgur.com/qnTcm4b)
+["Frying a Rare Egg Is Hard"](https://opensea.io/assets/0x2be6dae126185abfcd0c3fce25d971f84bb33f7b/4)
 
-![Imgur](https://i.imgur.com/qnTcm4b.jpg)
+![Imgur](https://i.imgur.com/zMfENaK.jpg)
 
+["Portrait of a Millennial"](https://opensea.io/assets/0x2be6dae126185abfcd0c3fce25d971f84bb33f7b/3)
+
+![Imgur]([https://i.imgur.com/7E0r7Lv.png)
 
 Find more of my art on my Instagram: [@gwilymynys](https://www.instagram.com/gwilymynys/)
 
