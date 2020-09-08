@@ -102,6 +102,10 @@
 
 -[DeFi Arts Intelligencer - *example from Feb. 15th*](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
 
+-[The Defiprime Post #7 (weekly) - *example from Sept. 6th*](https://defiprime.com/post7)
+
+-[Defiprime Newsletter #24 (monthly) - *example from Sept. 3th*](https://defiprime.substack.com/p/defiprime-24)
+
 ### Editing 
 
 -12,000 dictionary entries in Jourist Verlag's award-winning [Visual Dictionary app](https://www.jourist.com/product/jourist-visual-dictionary/)
