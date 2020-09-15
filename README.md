@@ -14,7 +14,7 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--[<b>collecting</b>](https://superrare.co/wmpeaster) and [<b>creating</b>](https://opensea.io/assets/willam-m-peaster-art?search=%7B%22stringTraits%22%3A%5B%7B%22name%22%3A%22artist%20name%22%2C%22values%22%3A%5B%22William%20M.%20Peaster%22%5D%7D%5D%7D) NFT collectibles
+-collecting and creating [<b>digital art</b>](https://app.rarible.com/wmp/collectibles)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
