@@ -62,7 +62,7 @@
 
 -[Inside DeFi Yield Farming: a Beginner's Guide to the Latest Craze in DeFi - *defiprime*](https://defiprime.com/defi-yield-farming)
 
--[nft42 Community Update #1: Building the Future of Digital Assets, Today](https://nft.substack.com/p/nft42-community-update-1-building)
+-[nft42 Community Update #1: Building the Future of Digital Assets, Today - *nft42*](https://nft.substack.com/p/nft42-community-update-1-building)
 
 -[Portrait of an Artist as a Young Etherean: On Winning New Creators to Ethereum - *SuperRare*](https://editorial.superrare.co/2020/05/28/portrait-of-an-artist-as-a-young-etherean-on-winning-new-creators-to-ethereum/)
 
