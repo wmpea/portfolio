@@ -106,11 +106,13 @@
 
 ### Newsletter writing
 
--[DeFi Arts Intelligencer - *example from Feb. 15th*](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
+-[DeFi Pulse Farmer #6 (DeFi Recap & Farm of the Week Sections) - *example from Sept. 2020*)](https://yieldfarmer.substack.com/p/defi-pulse-farmer-6)
 
--[The Defiprime Post #7 (weekly) - *example from Sept. 6th*](https://defiprime.com/post7)
+-[DeFi Arts Intelligencer - *example from Feb. 2020*](https://artsdefi.substack.com/p/defi-arts-intelligencer-feb-15th)
 
--[Defiprime Newsletter #24 (monthly) - *example from Sept. 3th*](https://defiprime.substack.com/p/defiprime-24)
+-[The Defiprime Post #7 (weekly) - *example from Sept. 2020*](https://defiprime.com/post7)
+
+-[Defiprime Newsletter #24 (monthly) - *example from Sept. 2020*](https://defiprime.substack.com/p/defiprime-24)
 
 ### Editing 
 
