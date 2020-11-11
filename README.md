@@ -28,6 +28,8 @@
 
 -<b>Bankless</b> (<i>Contributing writer</i>)
 
+-<b>Async Art</b> (<i>Contributing writer / Artist advocate</i>)
+
 -<b>nft42</b> (<i>Content writer</i>)
 
 -<b>defiprime</b> (<i>DeFi writer</i>)
@@ -58,17 +60,25 @@
 
 ### Article writing
 
+-[How to migrate LEND and stake AAVE - *Bankless*](https://bankless.substack.com/p/how-to-migrate-lend-and-stake-aave)
+
+-[How to protect your Ethereum wallet - *Bankless*](https://bankless.substack.com/p/how-to-protect-your-ethereum-wallet)
+
+-[TokenSmart NFT Humpday Report #3: The Big Fat Blue Kirby Scam - *nft42*](https://nft.substack.com/p/tokensmart-nft-humpday-report-3-the)
+
+-[TokenSmart NFT Humpday Report #4: The Musical Revolution Will Be Tokenized - *nft42*](https://nft.substack.com/p/tokensmart-nft-humpday-report-4-the)
+
+-[TokenSmart NFT Humpday Report #5: Axie Infinity Is Catching Fire, Launching AXS - *nft42*](https://nft.substack.com/p/tokensmart-nft-humpday-report-5-axie)
+
+-[Distortion Genius: Bård Ionson, a Singular Artist for a New Age - *Async Art*](https://edition.async.art/blog/distortion-genius-bard-ionson-a-singular-artist-for-a-new-age)
+
 -[Initial DeFi Offering - *defiprime*](https://defiprime.com/initial-defi-offering)
 
 -[Bonding Curve Offering Explained - *defiprime*](https://defiprime.com/bonding-curve-explained)
 
 -[Inside DeFi Yield Farming: a Beginner's Guide to the Latest Craze in DeFi - *defiprime*](https://defiprime.com/defi-yield-farming)
 
--[nft42 Community Update #1: Building the Future of Digital Assets, Today - *nft42*](https://nft.substack.com/p/nft42-community-update-1-building)
-
 -[Portrait of an Artist as a Young Etherean: On Winning New Creators to Ethereum - *SuperRare*](https://editorial.superrare.co/2020/05/28/portrait-of-an-artist-as-a-young-etherean-on-winning-new-creators-to-ethereum/)
-
--[On the Creation of Something New - *Async Art*](https://beta.cent.co/asyncart/+w6ovxi)
 
 -[Async Fundamentals: New Usability Improvements - *Async Art*](https://beta.cent.co/+xan9ik)
 
@@ -78,15 +88,9 @@
 
 -[Art on Ethereum: a Beginner's Guide to Cryptoart - *defiprime*](https://defiprime.com/cryptoart-on-ethereum)
 
--[Protocol Politicians: A Look at The Future Crypto Politics of MakerDAO & Dai Stablecoin - *Blockonomi*](https://blockonomi.com/protocol-politicians-makerdao-dai/)
-
--[Ethereum “ETH 2.0” Genesis Block May Launch in January 2020 - *Blockonomi* (beat major outlets to this story by days)](https://blockonomi.com/ethereum-eth-2-0-genesis-block-january-2020/)
-
 -[On the Zcash Counterfeit Flaw Fix: Questions to Ponder - *Bitsonline* (given a shoutout by Zcash founder Zooko)](https://twitter.com/zooko/status/1092911343932399616)
 
 ![Imgur](https://i.imgur.com/XT2h6Rk.png)
-
--[Ethereum the Transcendental - *Personal blog*](https://medium.com/@wmpeaster/ethereum-the-transcendental-c4f536d9f263)
 
 ### News writing
 
