@@ -26,6 +26,8 @@
 
 # <b>WORK HISTORY (<i>past 5 years</i>)</b>
 
+-<b>Bankless</b> (<i>Contributing writer</i>)
+
 -<b>nft42</b> (<i>Content writer</i>)
 
 -<b>defiprime</b> (<i>DeFi writer</i>)
