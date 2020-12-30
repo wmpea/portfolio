@@ -26,7 +26,9 @@
 
 # <b>WORK HISTORY (<i>past 5 years</i>)</b>
 
--<b>Bankless</b> (<i>Contributing writer</i>)
+-<b>Bankless</b> (<i>Contributing writer, Metaversal lead</i>)
+
+-<b>DeFi Pulse Farmer</b> (Contributing writer</i>)
 
 -<b>Async Art</b> (<i>Contributing writer / Artist advocate</i>)
 
