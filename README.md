@@ -28,9 +28,9 @@
 
 -<b>Bankless</b> (<i>Contributing writer, Metaversal lead</i>)
 
--<b>DeFi Pulse Farmer</b> (Contributing writer</i>)
+-<b>DeFi Pulse Farmer</b> (<i>Contributing writer</i>)
 
--<b>Async Art</b> (<i>Contributing writer / Artist advocate</i>)
+-<b>Async Art</b> (<i>Contributing writer</i>)
 
 -<b>nft42</b> (<i>Content writer</i>)
 
