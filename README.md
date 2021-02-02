@@ -14,7 +14,7 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--collecting and creating [<b>digital art</b>](https://app.rarible.com/items/onsale)
+-collecting and creating [<b>digital art</b>](https://opensea.io/accounts/W_M_Peaster)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
