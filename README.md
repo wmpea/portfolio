@@ -4,7 +4,7 @@
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
--a permalancer <b>professional writer</b>, <b>editor</b>, and <b>English consultant</b>
+-a <b>professional writer</b>, <b>editor</b>, and <b>English consultant</b>
 
 -specializing in the <b>Ethereum</b>, <b>DeFi</b>, and <b>NFT</b> beats
 
