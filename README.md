@@ -8,13 +8,13 @@
 
 -specializing in the <b>Ethereum</b>, <b>DeFi</b>, and <b>NFT</b> beats
 
--creator of the [<b>DeFi Arts Intelligencer</b>](https://artsdefi.substack.com/) newsletter
+-creator of the [<b>DeFi Arts Intelligencer</b>]) newsletter, which is now [<b>Metaversal[</b>] through Bankless)
 
 -learning <b>German</b> and a handful of <b>Romance</b> languages
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--collecting and creating [<b>digital art</b>](https://opensea.io/accounts/W_M_Peaster)
+-collecting and creating [<b>digital art and collectibles</b>](https://opensea.io/accounts/W_M_Peaster)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
@@ -61,6 +61,8 @@
 # <b>PORTFOLIO SAMPLES</b>
 
 ### Article writing
+
+-[NFTs and the On-Chain Spectruem - *Metaversal*](https://metaversal.banklesshq.com/p/nfts-and-the-on-chain-spectrum)
 
 -[How to migrate LEND and stake AAVE - *Bankless*](https://bankless.substack.com/p/how-to-migrate-lend-and-stake-aave)
 
@@ -154,14 +156,6 @@
 ![Imgur](https://i.imgur.com/8ydLuuZ.png)
 
 ![Imgur](https://i.imgur.com/OBYuzji.png)
-
-### Selected poetry
-
-["I'm" - July 2020](https://www.instagram.com/p/CDDmo3_FpSB/)
-
-["The Path" - Aug. 2020](https://www.instagram.com/p/CDYJwoIlIGa/)
-
-["Not on Track" - Aug. 2020](https://www.instagram.com/p/CDnyOG6F-Hs/)
 
 ### Digital art
 
