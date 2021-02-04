@@ -8,7 +8,7 @@
 
 -specializing in the <b>Ethereum</b>, <b>DeFi</b>, and <b>NFT</b> beats
 
--creator of the <b>DeFi Arts Intelligencer</b>) newsletter, which is now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
+-creator of the <b>DeFi Arts Intelligencer</b> newsletter, which is now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
 -learning <b>German</b> and a handful of <b>Romance</b> languages
 
