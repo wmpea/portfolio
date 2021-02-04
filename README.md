@@ -36,7 +36,7 @@
 
 -<b>defiprime</b> (<i>DeFi writer</i>)
 
--<b>ETHwriter</b> (<i>Community Manager</i>)
+-<b>ETHwriter</b> (<i>Contributing writer</i>)
 
 -<b>Jack Wild Publishing</b> (<i>Poetry editor</i>)
 
