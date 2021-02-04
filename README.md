@@ -62,7 +62,7 @@
 
 ### Article writing
 
--[NFTs and the On-Chain Spectruem - *Metaversal*](https://metaversal.banklesshq.com/p/nfts-and-the-on-chain-spectrum)
+-[NFTs and the On-Chain Spectrum - *Metaversal*](https://metaversal.banklesshq.com/p/nfts-and-the-on-chain-spectrum)
 
 -[How to migrate LEND and stake AAVE - *Bankless*](https://bankless.substack.com/p/how-to-migrate-lend-and-stake-aave)
 
