@@ -14,7 +14,7 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--collecting and creating [<b>digital art and collectibles</b>](https://opensea.io/accounts/W_M_Peaster)
+-collecting and creating [<b>digital art and collectibles</b>](https://www.cryptovoxels.com/parcels/3103)
 
 -playing <b>chess</b> (1. d4 ... your move)
 
