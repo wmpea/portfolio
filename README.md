@@ -14,7 +14,7 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--<b>[collecting](https://www.cryptovoxels.com/parcels/3103)</b> and <b>[creating](https://opensea.io/collection/color-fields)</b> <b>NFTs</b>
+-<b>[collecting](https://tryshowtime.com/WMPeaster)</b> and <b>[creating](https://zora.co/wmpeaster)</b> <b>NFTs</b>
 
 -playing <b>chess</b> (1. d4 ... your move)
 
