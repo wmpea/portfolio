@@ -8,21 +8,21 @@
 
 -specializing in the <b>Ethereum</b>, <b>DeFi</b>, and <b>NFT</b> beats
 
--creator of the <b>DeFi Arts Intelligencer</b>, which is now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless
-
--learning <b>German</b> and a handful of <b>Romance</b> languages
-
--writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
+-creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
 -<b>[trading](https://tryshowtime.com/WMPeaster)</b> and <b>[creating](https://zora.co/wmpeaster)</b> <b>NFTs</b>
+
+-learning <b>German</b>, <b>Spanish</b>, and <b>French</b>
+
+-writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
 -playing <b>chess</b> (1. d4 ... your move)
 
 # <b>EDUCATION</b> 
 
--<i>University of West Florida</i>, Bachelor’s degree, <b>Creative Writing</b> (2014)
+-University of West Florida, Bachelor’s degree, <b>Creative Writing</b> (2014)
 
--<i>Enterprise-Ozark State Community College</i>, Associate’s degree, <b>English</b> (2012)
+-Enterprise-Ozark State Community College, Associate’s degree, <b>English</b> (2012)
 
 # <b>RECENT WORK HISTORY
 
@@ -66,7 +66,7 @@
 
 -[Ethereum Gas Explained - *defiprime*](https://defiprime.com/gas)
   
-### NFT examples
+### NFT cryptoart
   
 ["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
 
