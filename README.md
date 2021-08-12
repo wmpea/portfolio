@@ -10,7 +10,7 @@
 
 -creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
--<b>[trading](https://tryshowtime.com/WMPeaster)</b> and <b>[creating](https://zora.co/wmpeaster)</b> <b>NFTs</b>
+-<b>[creating](https://zora.co/wmpeaster)</b> and <b>[trading](https://tryshowtime.com/WMPeaster)</b> <b>NFTs</b>
 
 -learning <b>German</b>, <b>Spanish</b>, and <b>French</b>
 
