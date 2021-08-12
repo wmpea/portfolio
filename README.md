@@ -30,7 +30,7 @@
 
 -<b>DeFi Pulse</b> (Contributing analyst and writer)
   
--<b>JPG</b> (Team member, contributing writer)
+-<b>JPG</b> (Contributing writer)
 
 -<b>nft42</b> (Contributing analyst and writer)
   
