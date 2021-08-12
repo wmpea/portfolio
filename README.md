@@ -67,14 +67,18 @@
 -[Ethereum Gas Explained - *defiprime*](https://defiprime.com/gas)
   
 ### NFT examples
+  
+["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
 
-["Frying a Rare Egg Is Hard"](https://opensea.io/assets/0x2be6dae126185abfcd0c3fce25d971f84bb33f7b/4)
+![The Wall of Truth](https://zora.imgix.net/bafybeidl6zt3ppdryededjkjl4wmcrpr5zdkomrdwe472hhgd7zb73yufu?fit=clip&fm=webp&q=100&w=2160)
+  
+["Playful World" - Zora](https://zora.co/wmpeaster/3954)
+  
+![Playful World](https://zora.imgix.net/bafybeickktuw7hlsckmggm4q536wi7qpzkmlebltj3ysvnpzpyzu4k4s4y?fit=clip&fm=webp&q=100&w=2160)
 
-![Imgur](https://i.imgur.com/zMfENaK.jpg)
-
-["Portrait of a Millennial"](https://opensea.io/assets/0x2be6dae126185abfcd0c3fce25d971f84bb33f7b/3)
-
-![Imgur](https://i.imgur.com/7E0r7Lv.png) 
+["Beasts Around the Field" - Zora](https://zora.co/wmpeaster/4121)
+  
+![Beasts Around the Field](https://zora.imgix.net/bafybeibogq6jatt7l2vd36n7jwctm7zhxmvx6gfla5vl3tl357ocmztmoy?fit=clip&fm=webp&q=100&w=2160)
 
 ***
 
