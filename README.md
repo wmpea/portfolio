@@ -18,6 +18,13 @@
 
 -playing <b>chess</b> (1. d4 ... your move)
 
+-<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, INST, LQTY
+
+-<b>NFT holdings</b>: CrypToadz, Cool Cats, MAYC, SALT, Meebits, Loot, assorted Art Blocks works, 
+assorted SuperRare works, Digirocks, Eponyms, Ready Player Cats, Forgotten Runes Wizards Cult, 
+Fast Food Nouns, Generativemasks, Zunks, DeadFellaz, Peaceful Groupies, The Official Surreals,
+Fang Gang, MoonCats
+
 # <b>EDUCATION</b> 
 
 -University of West Florida, Bachelor’s degree, <b>Creative Writing</b> (2014)
