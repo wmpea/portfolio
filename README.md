@@ -16,8 +16,6 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--playing <b>chess</b> (1. d4 ... your move)
-
 -<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, INST, LQTY
 
 -<b>NFT holdings</b>: CrypToadz, Cool Cats, MAYC, SALT, Meebits, Loot, assorted Art Blocks works, 
