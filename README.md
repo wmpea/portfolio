@@ -16,12 +16,12 @@
 
 -writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
 
--<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, INST, LQTY
+-<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, INST, XTZ, LQTY
 
 -<b>NFT holdings</b>: CrypToadz, Cool Cats, MAYC, SALT, Meebits, Loot, assorted Art Blocks works, 
 assorted SuperRare works, Digirocks, Eponyms, Ready Player Cats, Forgotten Runes Wizards Cult, 
 Fast Food Nouns, Generativemasks, Zunks, DeadFellaz, Peaceful Groupies, The Official Surreals,
-Fang Gang, MoonCats
+Fang Gang, MoonCats, assorted Hic et Nunc works
 
 # <b>EDUCATION</b> 
 
