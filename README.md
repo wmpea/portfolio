@@ -31,17 +31,19 @@ Fang Gang, MoonCats
 
 # <b>RECENT WORK HISTORY
 
--<b>Bankless</b> (Contributing analyst and writer, Metaversal lead)
+-<b>Bankless</b> (Analyst and writer, Metaversal lead)
 
--<b>DeFi Pulse</b> (Contributing analyst and writer)
+-<b>DeFi Pulse</b> (Analyst and writer)
   
--<b>JPG</b> (Contributing writer)
-
--<b>nft42</b> (Contributing analyst and writer)
+-<b>JPG</b> (Writer)
   
--<b>Async Art</b> (Contributing writer)
+-<b>DAOSquare</b> (Advisor)
 
--<b>defiprime</b> (Contributing writer)
+-<b>nft42</b> (Analyst and writer - previous)
+  
+-<b>Async Art</b> (Writer - previous)
+
+-<b>defiprime</b> (Writer - previous)
 
 # <b>PORTFOLIO SAMPLES</b>
 
