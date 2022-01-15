@@ -14,14 +14,13 @@
 
 -learning <b>German</b>, <b>Spanish</b>, and <b>French</b>
 
--writing fiction and <b>[poetry](http://wmpeaster.eth.link/)</b>
+-writing <b>fiction</b> and <b>[poetry]</b>
 
--<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, INST, XTZ, LQTY
+-<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, BTRFLY, YFI, AAVE, HND, ENS, AELIN, GMI, OS
 
--<b>NFT holdings</b>: CrypToadz, Cool Cats, MAYC, SALT, Meebits, Loot, assorted Art Blocks works, 
-assorted SuperRare works, Digirocks, Eponyms, Ready Player Cats, Forgotten Runes Wizards Cult, 
-Fast Food Nouns, Generativemasks, Zunks, DeadFellaz, Peaceful Groupies, The Official Surreals,
-Fang Gang, MoonCats, assorted Hic et Nunc works
+-<b>NFT holdings</b>: CrypToadz, Cool Cats, Blitnauts, SALT, Meebits, Loot, assorted Art Blocks works, 
+assorted SuperRare works, Digirocks, Eponyms, Forgotten Runes Wizards Cult, Fast Food Nouns, 
+Zunks, Phouns, DeadFellaz, Loot: Explorers, assorted Hic et Nunc works
 
 # <b>EDUCATION</b> 
 
@@ -35,7 +34,7 @@ Fang Gang, MoonCats, assorted Hic et Nunc works
 
 -<b>DeFi Pulse</b> (Analyst and writer)
   
--<b>JPG</b> (Writer)
+-<b>JPG</b> (Writer, community lead)
   
 -<b>DAOSquare</b> (Advisor)
 
@@ -54,6 +53,8 @@ Fang Gang, MoonCats, assorted Hic et Nunc works
 -[Connect Metagalaxies with Ethereum - *Metaversal*](https://metaversal.banklesshq.com/p/connecting-metagalaxies-with-ethereum)
 
 -[Curating NFTs with JPG - *Metaversal*](https://metaversal.banklesshq.com/p/curating-nfts-with-jpg)
+
+-[Non Fungible Poems - *JPG*](https://jpg.space/0x08ceb8bba685ee708c9c4c65576837cbe19b9dea/Non-Fungible-Poems?slide=0)
   
 -[Why the metaverse needs its own exhibition themes - *JPG*](https://jpg.mirror.xyz/E4Mw_fm4Lm9QlM6cR4fEr21ZyaqhEP3ge104PlX-lQE)
   
