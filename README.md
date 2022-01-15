@@ -4,7 +4,7 @@
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
--a <b>writer</b>, <b>trader</b>, and <b>creator</b>
+-a <b>writer</b> and <b>creator</b>
 
 -specializing in the <b>Ethereum</b>, <b>DeFi</b>, and <b>NFT</b> beats
 
