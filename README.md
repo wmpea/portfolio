@@ -10,11 +10,11 @@
 
 -creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
--<b>[creating](https://zora.co/wmpeaster)</b> and <b>[trading](https://opensea.io/WMP_Vault)</b> <b>NFTs</b>
+-creating and trading <b>NFTs</b>
 
 -learning <b>German</b>, <b>Spanish</b>, and <b>French</b>
 
--writing <b>fiction</b> and <b>[poetry]</b>
+-writing <b>fiction</b> and <b>poetry</b>
 
 -<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, BTRFLY, YFI, AAVE, HND, ENS, AELIN, GMI, OS
 
