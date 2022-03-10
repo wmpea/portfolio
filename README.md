@@ -16,9 +16,9 @@
 
 -writing <b>fiction</b> and <b>poetry</b>
 
--<b>Crypto holdings</b>: ETH, BANK, RON
+-Crypto holdings: ETH, BANK, RON
 
--<b>NFT holdings</b>: CrypToadz, Cool Cats, CyberBrokers, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
+-NFT holdings: CrypToadz, Cool Cats, CyberBrokers, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
 assorted SuperRare works, Digirocks, Fast Food Nouns, Loot: Explorers, assorted Hic et Nunc works
 
 # <b>EDUCATION</b> 
