@@ -16,11 +16,10 @@
 
 -writing <b>fiction</b> and <b>poetry</b>
 
--<b>Crypto holdings</b>: ETH, AXS, BANK, ALCX, SHARK, BTRFLY, YFI, AAVE, HND, ENS, AELIN, GMI, OS
+-<b>Crypto holdings</b>: ETH, BANK, RON
 
--<b>NFT holdings</b>: CrypToadz, Cool Cats, Blitnauts, SALT, Meebits, Loot, assorted Art Blocks works, 
-assorted SuperRare works, Digirocks, Eponyms, Forgotten Runes Wizards Cult, Fast Food Nouns, 
-Zunks, Phouns, DeadFellaz, Loot: Explorers, assorted Hic et Nunc works
+-<b>NFT holdings</b>: CrypToadz, Cool Cats, CyberBrokers, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
+assorted SuperRare works, Digirocks, Fast Food Nouns, Loot: Explorers, assorted Hic et Nunc works
 
 # <b>EDUCATION</b> 
 
@@ -31,12 +30,12 @@ Zunks, Phouns, DeadFellaz, Loot: Explorers, assorted Hic et Nunc works
 # <b>RECENT WORK HISTORY
 
 -<b>Bankless</b> (Analyst and writer, Metaversal lead)
-
--<b>DeFi Pulse</b> (Analyst and writer)
   
 -<b>JPG</b> (Writer, community lead)
-  
+
 -<b>DAOSquare</b> (Advisor)
+
+-<b>DeFi Pulse</b> (Analyst and writer - previous)
 
 -<b>nft42</b> (Analyst and writer - previous)
   
