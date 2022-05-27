@@ -6,7 +6,7 @@
 
 -a <b>writer</b> and <b>creator</b>
 
--specializing in the <b>Ethereum</b>, <b>DeFi</b>, and <b>NFT</b> beats
+-specializing in the <b>Ethereum</b>, <b>NFT</b>, and <b>DeFi</b> beats
 
 -creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
@@ -16,10 +16,10 @@
 
 -writing <b>fiction</b> and <b>poetry</b>
 
--Crypto holdings: ETH, BANK, RON
+-Crypto holdings: ETH
 
--NFT holdings: CrypToadz, Cool Cats, CyberBrokers, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
-assorted SuperRare works, Digirocks, Fast Food Nouns, Loot: Explorers, assorted Hic et Nunc works
+-NFT holdings: CrypToadz, Cool Cats, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
+assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, Oddstronauts, assorted Hic et Nunc works
 
 # <b>EDUCATION</b> 
 
@@ -33,7 +33,7 @@ assorted SuperRare works, Digirocks, Fast Food Nouns, Loot: Explorers, assorted 
   
 -<b>JPG</b> (Writer, community lead)
 
--<b>DAOSquare</b> (Advisor)
+-<b>DAOSquare - MuseX</b> (Advisor)
 
 -<b>DeFi Pulse</b> (Analyst and writer - previous)
 
@@ -49,29 +49,21 @@ assorted SuperRare works, Digirocks, Fast Food Nouns, Loot: Explorers, assorted 
   
 -[Rhizomatic NFTs - *Metaversal*](https://metaversal.banklesshq.com/p/rhizomatic-nfts-)
   
--[Connect Metagalaxies with Ethereum - *Metaversal*](https://metaversal.banklesshq.com/p/connecting-metagalaxies-with-ethereum)
-
--[Curating NFTs with JPG - *Metaversal*](https://metaversal.banklesshq.com/p/curating-nfts-with-jpg)
-
--[Non Fungible Poems - *JPG*](https://jpg.space/0x08ceb8bba685ee708c9c4c65576837cbe19b9dea/Non-Fungible-Poems?slide=0)
+-[The new Noun times - *Metaversal*](https://metaversal.banklesshq.com/p/the-new-noun-times-?s=w)
   
--[Why the metaverse needs its own exhibition themes - *JPG*](https://jpg.mirror.xyz/E4Mw_fm4Lm9QlM6cR4fEr21ZyaqhEP3ge104PlX-lQE)
+-[Decentralized Society (DeSoc) explained - *Metaversal*](https://metaversal.banklesshq.com/p/decentralized-society-desoc-explained?s=w)
   
--[How to make money with Axie Infinity - *Bankless*](https://newsletter.banklesshq.com/p/how-to-make-money-with-axie-infinity)
+-[Metaversal barbarians at the gate - *Metaversal*](https://metaversal.banklesshq.com/p/metaversal-barbarians-at-the-gate?s=w)
   
--[How to make money with Ribbon Finance - *Bankless*](https://newsletter.banklesshq.com/p/how-to-make-money-with-automated)
+-[The metaverse land tax - *Metaversal*](https://metaversal.banklesshq.com/p/the-metaverse-land-tax?s=w)
   
--[How to approach the generative art boom - *Bankless*](https://newsletter.banklesshq.com/p/how-to-approach-the-generative-art)
+-[How to make an open metaverse - *Metaversal*](https://metaversal.banklesshq.com/p/how-to-make-an-open-metaverse?s=w)
   
--[What is DeFi? - *DeFi Pulse*](https://defipulse.com/blog/2019/09/03/what-is-defi/)
+-[NFT worldbuilding projects - *Metaversal*](https://metaversal.banklesshq.com/p/nft-worldbuilding-projects?s=w)
   
--[What is a decentralized exchange? - *DeFi Pulse*](https://defipulse.com/blog/2019/07/19/what-is-a-decentralized-exchange/)
-
--[The Best NFT Resources: TokenSmart NFT Humpday Report #37 - *nft42*](https://nft.substack.com/p/the-best-nft-resources-tokensmart)
-
--[Distortion Genius: Bård Ionson, a Singular Artist for a New Age - *Async Art*](https://edition.async.art/blog/distortion-genius-bard-ionson-a-singular-artist-for-a-new-age)
-
--[Ethereum Gas Explained - *defiprime*](https://defiprime.com/gas)
+### NFT Curations
+  
+-[My JPG profile](https://jpg.space/William%20M.%20Peaster)
   
 ### NFT cryptoart
   
