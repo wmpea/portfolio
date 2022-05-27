@@ -81,4 +81,4 @@ assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, O
 
 ***
 
-*I can be reached via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster)).
+*Hmu on Twitter ([@WPeaster](https://twitter.com/WPeaster))
