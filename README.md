@@ -67,7 +67,9 @@ assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, O
   
 ### NFT cryptoart
   
-["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
+[Artiva shop](https://wmpea.artiva.app/)
+  
+  ["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
 
 ![The Wall of Truth](https://zora.imgix.net/bafybeidl6zt3ppdryededjkjl4wmcrpr5zdkomrdwe472hhgd7zb73yufu?fit=clip&fm=webp&q=100&w=2160)
   
