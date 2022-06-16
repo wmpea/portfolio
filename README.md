@@ -33,7 +33,7 @@ assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, O
   
 -<b>JPG</b> (Writer, community lead)
 
--<b>DAOSquare - MuseX</b> (Advisor)
+-<b>DAOSquare - MuseX</b> (Advisor - previous)
 
 -<b>DeFi Pulse</b> (Analyst and writer - previous)
 
