@@ -6,7 +6,7 @@
 
 -a <b>writer</b> and <b>creator</b>
 
--specializing in the <b>Ethereum</b>, <b>NFT</b>, and <b>DeFi</b> beats
+-specializing in <b>Ethereum</b>, <b>NFT</b>, and <b>DeFi</b>
 
 -creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
