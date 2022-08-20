@@ -18,7 +18,7 @@
 
 -Crypto holdings: <b>ETH</b>
 
--NFT holdings: <b>Blitnauts, Cool Cats, CrypToadz, Finiliar, Lil Nouns, Tubby Cats, assorted SuperRare works, assorted Hic et Nunc works</b>
+-NFT holdings: <b>Blitnauts, Cool Cats, CrypToadz, Finiliar, Lil Nouns, Tubby Cats, assorted SuperRare works, and assorted Hic et Nunc works</b>
 
 # <b>EDUCATION</b> 
 
@@ -66,7 +66,7 @@
   
 ### My NFT cryptoart
   
-[Selected cryptoart](https://jpg.space/William%20M.%20Peaster/exhibition/Selected-NFTs-of-WMP)
+-[Selected cryptoart](https://jpg.space/William%20M.%20Peaster/exhibition/Selected-NFTs-of-WMP)
   
  Examples: ["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
 
