@@ -26,7 +26,7 @@
 
 -Enterprise-Ozark State Community College, Associate’s degree, <b>English</b> (2012)
 
-# <b>RECENT WORK HISTORY
+# <b>RECENT WORK HISTORY</b> 
 
 -<b>Bankless</b> (Analyst and writer, Metaversal lead)
   
