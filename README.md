@@ -32,15 +32,15 @@
   
 -<b>JPG</b> (Writer, community lead)
 
--<b>DAOSquare - MuseX</b> (Advisor - previous)
+-<b>DAOSquare - MuseX</b> (Advisor - *previous*)
 
--<b>DeFi Pulse</b> (Analyst and writer - previous)
+-<b>DeFi Pulse</b> (Analyst and writer - *previous*)
 
--<b>nft42</b> (Analyst and writer - previous)
+-<b>nft42</b> (Analyst and writer - *previous*)
   
--<b>Async Art</b> (Writer - previous)
+-<b>Async Art</b> (Writer - *previous*)
 
--<b>defiprime</b> (Writer - previous)
+-<b>defiprime</b> (Writer - *previous*)
 
 # <b>PORTFOLIO SAMPLES</b>
 
