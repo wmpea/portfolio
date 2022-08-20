@@ -16,9 +16,9 @@
 
 -writing <b>fiction</b> and <b>poetry</b>
 
--Crypto holdings: ETH
+-Crypto holdings: <b>ETH</b>
 
--NFT holdings: CrypToadz, Cool Cats, Blitnauts, Finiliar, Lil Nouns, Tubby Cats, assorted SuperRare works, assorted Hic et Nunc works
+-NFT holdings: <b>CrypToadz, Cool Cats, Blitnauts, Finiliar, Lil Nouns, Tubby Cats, assorted SuperRare works, assorted Hic et Nunc works</b>
 
 # <b>EDUCATION</b> 
 
