@@ -18,8 +18,7 @@
 
 -Crypto holdings: ETH
 
--NFT holdings: CrypToadz, Cool Cats, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
-assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, Oddstronauts, assorted Hic et Nunc works
+-NFT holdings: CrypToadz, Cool Cats, Blitnauts, Finiliar, Lil Nouns, Tubby Cats, assorted SuperRare works, assorted Hic et Nunc works
 
 # <b>EDUCATION</b> 
 
@@ -61,13 +60,13 @@ assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, O
   
 -[NFT worldbuilding projects - *Metaversal*](https://metaversal.banklesshq.com/p/nft-worldbuilding-projects?s=w)
   
-### NFT Curations
+### My NFT Curations
   
 -[My JPG profile](https://jpg.space/William%20M.%20Peaster)
   
-### NFT cryptoart
+### My NFT cryptoart
   
--[Artiva shop](https://wmpea.artiva.app/)
+-[Selected cryptoart](https://jpg.space/William%20M.%20Peaster/exhibition/Selected-NFTs-of-WMP)
   
   ["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
 
