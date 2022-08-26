@@ -6,7 +6,7 @@
 
 -a <b>writer</b> and <b>creator</b>
 
--specializing in <b>Ethereum</b>, <b>NFT</b>, and <b>DeFi</b>
+-specializing in <b>Ethereum</b>, <b>NFTs</b>, and <b>DeFi</b>
 
 -creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
@@ -18,7 +18,7 @@
 
 -Crypto holdings: <b>ETH</b>
 
--NFT holdings: <b>Blitnauts, Cool Cats, CrypToadz, Finiliar, Lil Nouns, Tubby Cats, assorted SuperRare works, and assorted Hic et Nunc works</b>
+-NFT holdings: <b>Blitnauts, CrypToadz, Finiliar, Lil Nouns, assorted SuperRare works, and assorted Hic et Nunc works</b>
 
 # <b>EDUCATION</b> 
 
