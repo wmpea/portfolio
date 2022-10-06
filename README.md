@@ -18,7 +18,7 @@
 
 -Crypto holdings: <b>ETH</b>
 
--NFT holdings: <b>Blitnauts, CrypToadz, Finiliar, Lil Nouns, assorted SuperRare works, and assorted Hic et Nunc works</b>
+-NFT holdings: <b>Blitnauts, CrypToadz, Finiliar, Lil Nouns</b>
 
 # <b>EDUCATION</b> 
 
