@@ -10,15 +10,13 @@
 
 -creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
--creating and trading <b>NFTs</b>
-
--learning <b>German</b>, <b>Spanish</b>, and <b>French</b>
+-creating and <b>NFTs</b> - ( <b>[selected mints](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b> from 2019-2022)
 
 -writing <b>fiction</b> and <b>poetry</b>
 
 -Crypto holdings: <b>ETH</b>
 
--NFT holdings: <b>Blitnauts, Finiliar, Lil Nouns</b>
+-NFT holdings: <b>Blitnauts, Finiliar</b>
 
 # <b>EDUCATION</b> 
 
@@ -30,7 +28,7 @@
 
 -<b>Bankless</b> (Analyst and writer, Metaversal lead, NFT advisor)
   
--<b>JPG</b> (Writer, community lead)
+-<b>JPG</b> (Writer, community lead - *previous*)
 
 -<b>DAOSquare - MuseX</b> (Advisor - *previous*)
 
