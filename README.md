@@ -60,21 +60,21 @@
 
 -[On Death Considered as Temporary - *JPG*](https://jpg.space/WMP/exhibition/On%20Death%20Considered%20as%20Temporary)
   
-### My NFT Curations
+### NFT Curations
   
 -[My JPG profile](https://jpg.space/WMP)
   
-### My NFT cryptoart
+### Cryptoart examples
   
- Examples: ["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
+-["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
 
 ![The Wall of Truth](https://zora.imgix.net/bafybeidl6zt3ppdryededjkjl4wmcrpr5zdkomrdwe472hhgd7zb73yufu?fit=clip&fm=webp&q=100&w=2160)
   
-["Playful World" - Zora](https://zora.co/wmpeaster/3954)
+-["Playful World" - Zora](https://zora.co/wmpeaster/3954)
   
 ![Playful World](https://zora.imgix.net/bafybeickktuw7hlsckmggm4q536wi7qpzkmlebltj3ysvnpzpyzu4k4s4y?fit=clip&fm=webp&q=100&w=2160)
 
-["Beasts Around the Field" - Zora](https://zora.co/wmpeaster/4121)
+-["Beasts Around the Field" - Zora](https://zora.co/wmpeaster/4121)
   
 ![Beasts Around the Field](https://zora.imgix.net/bafybeibogq6jatt7l2vd36n7jwctm7zhxmvx6gfla5vl3tl357ocmztmoy?fit=clip&fm=webp&q=100&w=2160)
 
