@@ -26,7 +26,7 @@
 
 # <b>RECENT WORK HISTORY</b> 
 
--<b>Bankless</b> (Analyst and writer, Metaversal lead, NFT advisor)
+-<b>Bankless</b> (Senior writer, Metaversal lead, NFT advisor)
   
 -<b>JPG</b> (Community manager - *previous*)
 
