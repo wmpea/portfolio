@@ -30,7 +30,7 @@
   
 -<b>JPG</b> (Community manager - *previous*)
 
--<b>DAOSquare - MuseX</b> (Advisor - *previous*)
+-<b>DAOSquare </b> (Advisor - *previous*)
 
 -<b>DeFi Pulse</b> (Analyst and writer - *previous*)
 
@@ -60,7 +60,7 @@
   
 ### My NFT Curations
   
--[My JPG profile](https://jpg.space/William%20M.%20Peaster)
+-[My JPG profile](https://jpg.space/WMP)
   
 ### My NFT cryptoart
   
