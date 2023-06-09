@@ -1,6 +1,6 @@
 # <b>WMP BIO</b>
 
-### I'm <b>William Matthew Peaster.</b>
+### I'm <b>William Matthew Peaster!</b>
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
@@ -65,8 +65,6 @@
 -[My JPG profile](https://jpg.space/WMP)
   
 ### My NFT cryptoart
-  
--[Selected cryptoart](https://jpg.space/William%20M.%20Peaster/exhibition/Selected-NFTs-of-WMP)
   
  Examples: ["The Wall of Truth" - Zora](https://zora.co/wmpeaster/2488)
 
