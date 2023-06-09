@@ -44,19 +44,21 @@
 
 ### Writing examples  
   
+-[ERC-6551: The NFT Game Changer - *Metaversal*](https://metaversal.banklesshq.com/p/erc-6551)
+
+-[Mint Condition - *Metaversal*](https://metaversal.banklesshq.com/p/nftquality)
+
 -[Rhizomatic NFTs - *Metaversal*](https://metaversal.banklesshq.com/p/rhizomatic-nfts-)
-  
--[The new Noun times - *Metaversal*](https://metaversal.banklesshq.com/p/the-new-noun-times-?s=w)
-  
--[Decentralized Society (DeSoc) explained - *Metaversal*](https://metaversal.banklesshq.com/p/decentralized-society-desoc-explained?s=w)
-  
+
 -[Metaversal barbarians at the gate - *Metaversal*](https://metaversal.banklesshq.com/p/metaversal-barbarians-at-the-gate?s=w)
   
 -[The metaverse land tax - *Metaversal*](https://metaversal.banklesshq.com/p/the-metaverse-land-tax?s=w)
-  
--[How to make an open metaverse - *Metaversal*](https://metaversal.banklesshq.com/p/how-to-make-an-open-metaverse?s=w)
-  
--[NFT worldbuilding projects - *Metaversal*](https://metaversal.banklesshq.com/p/nft-worldbuilding-projects?s=w)
+
+-[A Beginner's Guide to JPG - *JPG*](https://jpg.mirror.xyz/M3PjGfD5Asp-XLEtI4MxS5yRplrdsfvw609lD2B5sq4)
+
+-[The Importance of Reputation Systems - *JPG*](https://jpg.mirror.xyz/CCmo6842r-G3T8sF8G3X0zGFR1KoenbgNMacTKyWtow)
+
+-[On Death Considered as Temporary - *JPG*](https://jpg.space/WMP/exhibition/On%20Death%20Considered%20as%20Temporary)
   
 ### My NFT Curations
   
