@@ -4,17 +4,17 @@
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
--a <b>writer</b> and <b>creator</b>
+-a <b>writer</b> and <b>artist</b>
 
 -specializing in <b>Ethereum</b>, <b>NFTs</b>, and <b>DeFi</b>
 
 -creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
--creating and <b>NFTs</b> - ( <b>[selected mints](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b> from 2019-2022)
-
 -writing <b>fiction</b> and <b>poetry</b>
 
--Crypto holdings: <b>ETH</b>
+-creating <b>NFTs</b> (<b>[selected mints](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b> from 2019-2022)
+
+-crypto holdings: <b>ETH</b>
 
 -NFT holdings: <b>Blitnauts, Finiliar</b>
 
