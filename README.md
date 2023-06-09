@@ -4,7 +4,7 @@
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
--a <b>writer</b> and <b>artist</b>
+-an <b>artist</b> and <b>writer</b>
 
 -specializing in <b>Ethereum</b>, <b>NFTs</b>, and <b>DeFi</b>
 
@@ -12,11 +12,11 @@
 
 -writing <b>fiction</b> and <b>poetry</b>
 
--creating <b>NFTs</b> (<b>[selected mints](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b> from 2019-2022)
+-creating <b>NFTs</b> (<b>[selected mints from 2019-2022](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b>)
 
 -crypto holdings: <b>ETH</b>
 
--NFT holdings: <b>Blitnauts, Finiliar</b>
+-NFT holdings: <b>Blitnauts, Fini</b>
 
 # <b>EDUCATION</b> 
 
@@ -28,7 +28,7 @@
 
 -<b>Bankless</b> (Analyst and writer, Metaversal lead, NFT advisor)
   
--<b>JPG</b> (Writer, community lead - *previous*)
+-<b>JPG</b> (Community manager - *previous*)
 
 -<b>DAOSquare - MuseX</b> (Advisor - *previous*)
 
