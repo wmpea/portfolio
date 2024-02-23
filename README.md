@@ -14,9 +14,9 @@
 
 -creating <b>NFTs</b> (<b>[selected mints from 2019-2022](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b>)
 
--crypto holdings: <b>ETH</b>
+-crypto holdings: <b>ETH, PRIME</b>
 
--NFT holdings: <b>Blitnauts, Fini</b>
+-NFT holdings: <b>Terraforms, Fini</b>
 
 # <b>EDUCATION</b> 
 
