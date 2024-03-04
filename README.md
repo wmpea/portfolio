@@ -44,21 +44,17 @@
 
 ### Writing examples  
   
--[ERC-6551: The NFT Game Changer - *Metaversal*](https://metaversal.banklesshq.com/p/erc-6551)
+-[The Infinite Story Machine - *EIC01*](https://issuu.com/ethinvestorsclub/docs/eic01/8)
+
+-[Understanding Onchain NFTs - *Metaversal*](https://metaversal.banklesshq.com/p/onchain-nfts)
+
+-[Farcaster Frames: A Crypto Game Changer - *Metaversal*](https://metaversal.banklesshq.com/p/farcaster-frames)
+
+-[The Smart Open Metaverse - *Metaversal*](https://metaversal.banklesshq.com/p/smart-open-metaverse)
 
 -[Mint Condition - *Metaversal*](https://metaversal.banklesshq.com/p/nftquality)
 
--[Rhizomatic NFTs - *Metaversal*](https://metaversal.banklesshq.com/p/rhizomatic-nfts-)
-
 -[Metaversal barbarians at the gate - *Metaversal*](https://metaversal.banklesshq.com/p/metaversal-barbarians-at-the-gate?s=w)
-  
--[The metaverse land tax - *Metaversal*](https://metaversal.banklesshq.com/p/the-metaverse-land-tax?s=w)
-
--[A Beginner's Guide to JPG - *JPG*](https://jpg.mirror.xyz/M3PjGfD5Asp-XLEtI4MxS5yRplrdsfvw609lD2B5sq4)
-
--[The Importance of Reputation Systems - *JPG*](https://jpg.mirror.xyz/CCmo6842r-G3T8sF8G3X0zGFR1KoenbgNMacTKyWtow)
-
--[On Death Considered as Temporary - *JPG*](https://jpg.space/WMP/exhibition/On%20Death%20Considered%20as%20Temporary)
   
 ### NFT Curations
   
