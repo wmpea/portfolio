@@ -14,10 +14,6 @@
 
 -creating <b>NFTs</b> (<b>[selected mints from 2019-2022](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b>)
 
--crypto holdings: <b>ETH, PRIME</b>
-
--NFT holdings: <b>Terraforms, Fini</b>
-
 # <b>EDUCATION</b> 
 
 -University of West Florida, Bachelor’s degree, <b>Creative Writing</b> (2014)
@@ -30,35 +26,15 @@
   
 -<b>JPG</b> (Community manager - *previous*)
 
--<b>DAOSquare </b> (Advisor - *previous*)
-
 -<b>DeFi Pulse</b> (Analyst and writer - *previous*)
 
 -<b>nft42</b> (Analyst and writer - *previous*)
-  
--<b>Async Art</b> (Writer - *previous*)
-
--<b>defiprime</b> (Writer - *previous*)
 
 # <b>PORTFOLIO SAMPLES</b>
 
 ### Writing examples  
   
 -[The Infinite Story Machine - *EIC01*](https://issuu.com/ethinvestorsclub/docs/eic01/8)
-
--[Understanding Onchain NFTs - *Metaversal*](https://metaversal.banklesshq.com/p/onchain-nfts)
-
--[Farcaster Frames: A Crypto Game Changer - *Metaversal*](https://metaversal.banklesshq.com/p/farcaster-frames)
-
--[The Smart Open Metaverse - *Metaversal*](https://metaversal.banklesshq.com/p/smart-open-metaverse)
-
--[Mint Condition - *Metaversal*](https://metaversal.banklesshq.com/p/nftquality)
-
--[Metaversal barbarians at the gate - *Metaversal*](https://metaversal.banklesshq.com/p/metaversal-barbarians-at-the-gate?s=w)
-  
-### NFT Curations
-  
--[My JPG profile](https://jpg.space/WMP)
   
 ### Cryptoart examples
   
