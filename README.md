@@ -8,11 +8,9 @@
 
 -specializing in <b>Ethereum</b>, <b>NFTs</b>, and <b>DeFi</b>
 
--creator of the <b>DeFi Arts Intelligencer</b> newsletter (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
+-creator of the <b>DeFi Arts Intelligencer</b> newsletter (now <b>[Metaversal](https://www.bankless.com/metaversal)</b> through Bankless)
 
 -writing <b>fiction</b> and <b>poetry</b>
-
--creating <b>NFTs</b> (<b>[selected mints from 2019-2022](https://jpg.space/WMP/exhibition/Selected%20NFTs%20of%20WMP)</b>)
 
 # <b>EDUCATION</b> 
 
