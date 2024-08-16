@@ -24,9 +24,9 @@
   
 -<b>JPG</b> (Community manager - *previous*)
 
--<b>DeFi Pulse</b> (Analyst and writer - *previous*)
+-<b>DeFi Pulse</b> (Writer - *previous*)
 
--<b>nft42</b> (Analyst and writer - *previous*)
+-<b>nft42</b> (Writer - *previous*)
 
 # <b>PORTFOLIO SAMPLES</b>
 
