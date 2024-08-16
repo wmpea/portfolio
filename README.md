@@ -16,8 +16,6 @@
 
 -University of West Florida, Bachelor’s degree, <b>Creative Writing</b> (2014)
 
--Enterprise-Ozark State Community College, Associate’s degree, <b>English</b> (2012)
-
 # <b>RECENT WORK HISTORY</b> 
 
 -<b>Bankless</b> (Senior writer and analyst, Metaversal lead)
