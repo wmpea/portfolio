@@ -10,7 +10,7 @@
 
 -creator of the <b>[Metaversal](https://www.bankless.com/metaversal)</b> newsletter through Bankless
 
--professionally covering <b>all things onchain culture</b>: AI, art, collectibles, crypto social, gaming, memes, NFTfi, VR, and beyond)
+-professionally covering <b>all things onchain culture</b>: AI, art, crypto social, digital collectibles, gaming, memes, NFTfi, VR, and beyond
 
 -personally writing <b>fiction</b> and <b>poetry</b>
 
@@ -36,4 +36,4 @@
 
 -[Can We Survive Onchain Bots? - *EIC03*](https://issuu.com/ethinvestorsclub/docs/eic03_full_digital_file_10-31/10)
 
--[Beyond Definition: The Open Frontier of Being Nounish - *blog*](https://paragraph.xyz/@wmp/nounish-open-frontier)
+-[Beyond Definition: The Open Frontier of Being Nounish - *Paragraph*](https://paragraph.xyz/@wmp/nounish-open-frontier)
