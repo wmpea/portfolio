@@ -6,9 +6,9 @@
 
 -an <b>artist</b> and <b>writer</b>
 
--specializing in <b>Ethereum</b>, <b>NFTs</b>, and <b>DeFi</b>
+-specializing in <b>Ethereum</b>, <b>DeFi</b>, and <b>NFTs</b>
 
--creator of the <b>DeFi Arts Intelligencer</b> newsletter (now <b>[Metaversal](https://www.bankless.com/metaversal)</b> through Bankless)
+-creator of the <b>DeFi Arts Intelligencer</b> newsletter (now <b>[Metaversal](https://www.bankless.com/metaversal)</b> through Bankless, covering all things onchain culture: AI, art, collectibles, crypto social, gaming, memes, NFTfi, VR, and beyond)
 
 -writing <b>fiction</b> and <b>poetry</b>
 
@@ -31,3 +31,7 @@
 ### Writing examples  
   
 -[The Infinite Story Machine - *EIC01*](https://issuu.com/ethinvestorsclub/docs/eic01/8)
+
+-[Can We Survive Onchain Bots? - *EIC03*](https://issuu.com/ethinvestorsclub/docs/eic03_full_digital_file_10-31/10)
+
+-[Beyond Definition: The Open Frontier of Being Nounish - *blog*](https://paragraph.xyz/@wmp/nounish-open-frontier)
