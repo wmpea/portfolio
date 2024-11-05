@@ -1,6 +1,6 @@
 # <b>WMP BIO</b>
 
-### I'm <b>William Matthew Peaster!</b>
+### I'm <b>William M. Peaster!</b>
 
 ![Imgur](https://i.imgur.com/COmcG3F.jpg)
 
