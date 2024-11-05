@@ -8,7 +8,7 @@
 
 -specializing in <b>Ethereum</b>, <b>DeFi</b>, and <b>NFTs</b>
 
--creator of the <b>DeFi Arts Intelligencer</b> newsletter (now <b>[Metaversal](https://www.bankless.com/metaversal)</b> through Bankless
+-creator of the <b>[Metaversal](https://www.bankless.com/metaversal)</b> newsletter through Bankless
 
 -professionally covering <b>all things onchain culture</b>: AI, art, collectibles, crypto social, gaming, memes, NFTfi, VR, and beyond)
 
