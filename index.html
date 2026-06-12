@@ -165,15 +165,20 @@
   .recipe .meta .mono { color: var(--accent); display: block; }
   .recipe .meta p { color: var(--ink-soft); font-size: 0.88rem; margin-top: 6px; line-height: 1.45; }
 
-  /* swatch paint — placeholders until real portfolio images go in */
-  .sw-glintsomes { background: radial-gradient(circle at 30% 25%, #fff7d6 0%, #f5c66b 28%, #b86b2e 60%, #3d1f12 100%); }
-  .sw-conctos    { background: conic-gradient(from 210deg at 60% 40%, #1e2a4a, #4a6fa5, #c9d6e8, #7a8fb3, #1e2a4a); }
-  .sw-gourds     { background: linear-gradient(160deg, #d9c87a 0%, #a8893a 35%, #5e4a1c 70%, #2e2410 100%); }
-  .sw-swags      { background: linear-gradient(120deg, #e8b4c8 0%, #c76b9e 30%, #7a3b78 65%, #2e1438 100%); }
-  .sw-noons      { background: linear-gradient(180deg, #fdf6e3 0%, #f0d9a8 40%, #d98e4a 75%, #8a4a2e 100%); }
-  .sw-phreaks    { background: conic-gradient(from 40deg at 35% 65%, #0d0d1a, #e63956, #f7e34d, #2bd9c8, #0d0d1a); }
-  .sw-froods     { background: radial-gradient(circle at 70% 70%, #c8e8d4 0%, #5aa87a 35%, #1e5a3e 70%, #0a2418 100%); }
-  .sw-coids      { background: linear-gradient(200deg, #e8e4f7 0%, #9a8fd4 35%, #4a3b8a 70%, #1a1238 100%); }
+  .strip .chip, .recipe .swatch {
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* swatch paint — gradient fallbacks; uploaded images layer over these */
+  .sw-glintsomes { background-image: url('images/glintsomes.jpg'); background-color: #b86b2e; }
+  .sw-conctos    { background-image: url('images/conctos.jpg'); background-color: #4a6fa5; }
+  .sw-gourds     { background-image: url('images/gourds.jpg'); background-color: #a8893a; }
+  .sw-swags      { background-image: url('images/swags.jpg'); background-color: #c76b9e; }
+  .sw-noons      { background-image: url('images/noons.jpg'); background-color: #f0d9a8; }
+  .sw-phreaks    { background-image: url('images/phreaks.jpg'); background-color: #e63956; }
+  .sw-froods     { background-image: url('images/froods.jpg'); background-color: #5aa87a; }
+  .sw-coids      { background-image: url('images/coids.jpg'); background-color: #9a8fd4; }
 
   /* pricing */
   .price-card {
@@ -313,7 +318,7 @@
     <section id="styles">
       <span class="eyebrow mono">the style index</span>
       <h2>Eight house recipes, built from two years of sref work.</h2>
-      <p style="max-width:60ch; color:var(--ink-soft);">Each recipe is a named, repeatable visual language — a tuned combination of style references I've refined over hundreds of generations. Pick one for your commission, or let me match a style to your piece. <em>(Swatches below are placeholders — real portfolio samples coming.)</em></p>
+      <p style="max-width:60ch; color:var(--ink-soft);">Each recipe is a named, repeatable visual language — a tuned combination of style references I've refined over hundreds of generations. Pick one for your commission, or let me match a style to your piece.</p>
       <div class="index-grid">
         <div class="recipe">
           <div class="swatch sw-glintsomes" role="img" aria-label="Glintsomes style sample"></div>
