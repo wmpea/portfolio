@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bespoke Midjourney Graphics — Commissions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gloock&family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ground: #ECEAF2;
+    --ground-deep: #E2DFEC;
+    --ink: #1C1A26;
+    --ink-soft: #56536A;
+    --line: #C9C5D8;
+    --accent: #3B2BEE;
+    --card: #F7F6FB;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+  }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: 'Schibsted Grotesk', system-ui, sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .mono {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.02em;
+  }
+
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+  /* ---------- header ---------- */
+  header {
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 0;
+    background: color-mix(in srgb, var(--ground) 88%, transparent);
+    backdrop-filter: blur(8px);
+    z-index: 10;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 0;
+  }
+  .nav a { color: var(--ink); text-decoration: none; }
+  .nav .links { display: flex; gap: 22px; }
+  .nav .links a:hover, .nav .links a:focus-visible { color: var(--accent); }
+  a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  /* ---------- hero ---------- */
+  .hero { padding: 84px 0 64px; }
+  .hero .kicker { color: var(--accent); margin-bottom: 20px; }
+  h1 {
+    font-family: 'Gloock', serif;
+    font-weight: 400;
+    font-size: clamp(2.4rem, 6vw, 4.4rem);
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+    max-width: 17ch;
+  }
+  .hero p.lede {
+    max-width: 54ch;
+    margin-top: 24px;
+    color: var(--ink-soft);
+    font-size: 1.1rem;
+  }
+  .hero-cta { margin-top: 36px; display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
+  .btn {
+    display: inline-block;
+    background: var(--ink);
+    color: var(--ground);
+    text-decoration: none;
+    padding: 13px 26px;
+    border-radius: 999px;
+    font-weight: 500;
+    transition: background 0.15s ease;
+  }
+  .btn:hover { background: var(--accent); }
+  .btn.ghost {
+    background: transparent;
+    color: var(--ink);
+    border: 1px solid var(--line);
+  }
+  .btn.ghost:hover { border-color: var(--accent); color: var(--accent); background: transparent; }
+
+  /* ---------- specimen strip ---------- */
+  .strip {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 8px;
+    padding-bottom: 72px;
+  }
+  .strip .chip {
+    aspect-ratio: 3 / 4;
+    border-radius: 6px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.2s ease;
+  }
+  .strip .chip:hover { transform: translateY(-4px); }
+
+  /* ---------- sections ---------- */
+  section { padding: 72px 0; border-top: 1px solid var(--line); }
+  .eyebrow { color: var(--ink-soft); margin-bottom: 14px; }
+  h2 {
+    font-family: 'Gloock', serif;
+    font-weight: 400;
+    font-size: clamp(1.7rem, 3.4vw, 2.4rem);
+    line-height: 1.15;
+    margin-bottom: 18px;
+  }
+
+  /* how it works */
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+    margin-top: 40px;
+  }
+  .step {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 26px 24px;
+  }
+  .step .mono { color: var(--accent); display: block; margin-bottom: 14px; }
+  .step h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+  .step p { color: var(--ink-soft); font-size: 0.95rem; }
+
+  /* style index */
+  .index-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    margin-top: 40px;
+  }
+  .recipe {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    background: var(--card);
+  }
+  .recipe .swatch { aspect-ratio: 1; }
+  .recipe .meta { padding: 14px 16px 16px; }
+  .recipe .meta .mono { color: var(--accent); display: block; }
+  .recipe .meta p { color: var(--ink-soft); font-size: 0.88rem; margin-top: 6px; line-height: 1.45; }
+
+  /* swatch paint — placeholders until real portfolio images go in */
+  .sw-glintsomes { background: radial-gradient(circle at 30% 25%, #fff7d6 0%, #f5c66b 28%, #b86b2e 60%, #3d1f12 100%); }
+  .sw-conctos    { background: conic-gradient(from 210deg at 60% 40%, #1e2a4a, #4a6fa5, #c9d6e8, #7a8fb3, #1e2a4a); }
+  .sw-gourds     { background: linear-gradient(160deg, #d9c87a 0%, #a8893a 35%, #5e4a1c 70%, #2e2410 100%); }
+  .sw-swags      { background: linear-gradient(120deg, #e8b4c8 0%, #c76b9e 30%, #7a3b78 65%, #2e1438 100%); }
+  .sw-noons      { background: linear-gradient(180deg, #fdf6e3 0%, #f0d9a8 40%, #d98e4a 75%, #8a4a2e 100%); }
+  .sw-phreaks    { background: conic-gradient(from 40deg at 35% 65%, #0d0d1a, #e63956, #f7e34d, #2bd9c8, #0d0d1a); }
+  .sw-froods     { background: radial-gradient(circle at 70% 70%, #c8e8d4 0%, #5aa87a 35%, #1e5a3e 70%, #0a2418 100%); }
+  .sw-coids      { background: linear-gradient(200deg, #e8e4f7 0%, #9a8fd4 35%, #4a3b8a 70%, #1a1238 100%); }
+
+  /* pricing */
+  .price-card {
+    margin-top: 40px;
+    background: var(--ink);
+    color: var(--ground);
+    border-radius: 14px;
+    padding: 44px 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .price-card .figure {
+    font-family: 'Gloock', serif;
+    font-size: clamp(2.6rem, 5vw, 3.8rem);
+    line-height: 1;
+  }
+  .price-card .figure small {
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: 1rem;
+    color: #A7A2C2;
+    display: block;
+    margin-top: 10px;
+  }
+  .price-card ul { list-style: none; }
+  .price-card li {
+    padding: 10px 0;
+    border-bottom: 1px solid #38344C;
+    font-size: 0.98rem;
+  }
+  .price-card li:last-child { border-bottom: none; }
+
+  /* commission / contact */
+  .commission-box {
+    margin-top: 40px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--card);
+    padding: 36px;
+  }
+  .commission-box ol {
+    margin: 18px 0 0 20px;
+    color: var(--ink-soft);
+  }
+  .commission-box li { margin-bottom: 10px; }
+  .addr {
+    margin-top: 22px;
+    background: var(--ground-deep);
+    border: 1px dashed var(--line);
+    border-radius: 8px;
+    padding: 14px 18px;
+    word-break: break-all;
+  }
+
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 36px 0 48px;
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  @media (max-width: 860px) {
+    .steps { grid-template-columns: 1fr; }
+    .index-grid { grid-template-columns: repeat(2, 1fr); }
+    .price-card { grid-template-columns: 1fr; padding: 32px 26px; }
+    .strip { grid-template-columns: repeat(4, 1fr); }
+  }
+  @media (max-width: 520px) {
+    .index-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <a href="#" class="mono">wm.peaster / graphics</a>
+    <nav class="links mono">
+      <a href="#styles">styles</a>
+      <a href="#pricing">pricing</a>
+      <a href="#commission">commission</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <section class="hero" style="border-top:none;">
+      <span class="kicker mono">--bespoke --crypto-native --48h</span>
+      <h1>Custom Midjourney graphics for your articles &amp; projects.</h1>
+      <p class="lede">I'm a writer and editor. Since 2017, I've published +2.2k articles and 1.3 million words at Bankless, DeFi Pulse, and beyond.</p>
+      <p class="lede" style="margin-top:14px;">In recent years, I've developed custom Midjourney styles for creating featured graphics for my articles. Now I'm opening them up for commissions — send me your piece, your vibe, and 10 USDC, and I'll send back two finished options.</p>
+      <div class="hero-cta">
+        <a class="btn" href="#commission">Commission a graphic</a>
+        <a class="btn ghost" href="#styles">Browse the style index</a>
+      </div>
+    </section>
+
+    <div class="strip" aria-hidden="true">
+      <div class="chip sw-glintsomes"></div>
+      <div class="chip sw-conctos"></div>
+      <div class="chip sw-gourds"></div>
+      <div class="chip sw-swags"></div>
+      <div class="chip sw-noons"></div>
+      <div class="chip sw-phreaks"></div>
+      <div class="chip sw-froods"></div>
+      <div class="chip sw-coids"></div>
+    </div>
+
+    <section id="how">
+      <span class="eyebrow mono">how it works</span>
+      <h2>Brief in, options out.</h2>
+      <div class="steps">
+        <div class="step">
+          <span class="mono">01 / brief</span>
+          <h3>Send your brief</h3>
+          <p>A link to your article or project, the mood you're after, and any style from the index below you'd like me to work in. A sentence or two is plenty.</p>
+        </div>
+        <div class="step">
+          <span class="mono">02 / payment</span>
+          <h3>Send 10 USDC</h3>
+          <p>Onchain, to the address below. Once it lands, your commission is in the queue. No invoices, no platforms, no fees beyond gas.</p>
+        </div>
+        <div class="step">
+          <span class="mono">03 / delivery</span>
+          <h3>Get two options</h3>
+          <p>Within 48 hours you'll receive two finished, high-res graphics. Pick one, or keep both — they're yours either way, full usage rights.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="styles">
+      <span class="eyebrow mono">the style index</span>
+      <h2>Eight house recipes, built from two years of sref work.</h2>
+      <p style="max-width:60ch; color:var(--ink-soft);">Each recipe is a named, repeatable visual language — a tuned combination of style references I've refined over hundreds of generations. Pick one for your commission, or let me match a style to your piece. <em>(Swatches below are placeholders — real portfolio samples coming.)</em></p>
+      <div class="index-grid">
+        <div class="recipe">
+          <div class="swatch sw-glintsomes" role="img" aria-label="Glintsomes style sample"></div>
+          <div class="meta"><span class="mono">--sref glintsomes</span><p>Warm, gilded, light-struck. For pieces that need a little shine.</p></div>
+        </div>
+        <div class="recipe">
+          <div class="swatch sw-conctos" role="img" aria-label="Conctos style sample"></div>
+          <div class="meta"><span class="mono">--sref conctos</span><p>Cool, structural, architectural blues. Infrastructure energy.</p></div>
+        </div>
+        <div class="recipe">
+          <div class="swatch sw-gourds" role="img" aria-label="Gourds style sample"></div>
+          <div class="meta"><span class="mono">--sref gourds</span><p>Earthy, harvest-toned, organic. Grounded and tactile.</p></div>
+        </div>
+        <div class="recipe">
+          <div class="swatch sw-swags" role="img" aria-label="Swags style sample"></div>
+          <div class="meta"><span class="mono">--sref swags</span><p>Rich magentas and velvet darks. Drama without the noise.</p></div>
+        </div>
+        <div class="recipe">
+          <div class="swatch sw-noons" role="img" aria-label="Noons style sample"></div>
+          <div class="meta"><span class="mono">--sref noons</span><p>Sun-bleached, midday warmth. Open, optimistic, editorial.</p></div>
+        </div>
+        <div class="recipe">
+          <div class="swatch sw-phreaks" role="img" aria-label="Phreaks style sample"></div>
+          <div class="meta"><span class="mono">--sref phreaks</span><p>High-voltage color collisions. For pieces that want to be loud.</p></div>
+        </div>
+        <div class="recipe">
+          <div class="swatch sw-froods" role="img" aria-label="Froods style sample"></div>
+          <div class="meta"><span class="mono">--sref froods</span><p>Deep greens, lush and strange. Overgrowth as aesthetic.</p></div>
+        </div>
+        <div class="recipe">
+          <div class="swatch sw-coids" role="img" aria-label="Coids style sample"></div>
+          <div class="meta"><span class="mono">--sref coids</span><p>Cold violets and dreamlike haze. The quiet, uncanny one.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="pricing">
+      <span class="eyebrow mono">pricing</span>
+      <h2>One flat rate. No tiers, no upsells.</h2>
+      <div class="price-card">
+        <div>
+          <div class="figure">10 USDC<small>per commission</small></div>
+        </div>
+        <ul>
+          <li>Two finished, high-resolution options</li>
+          <li>Any style from the index, or a custom direction</li>
+          <li>Delivered within 48 hours</li>
+          <li>Full usage rights — articles, covers, socials, anywhere</li>
+          <li>One revision pass if neither option lands</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="commission">
+      <span class="eyebrow mono">commission</span>
+      <h2>Ready when you are.</h2>
+      <div class="commission-box">
+        <p>To commission a graphic:</p>
+        <ol>
+          <li>DM me on X / Farcaster with your brief — link, vibe, preferred style.</li>
+          <li>Send 10 USDC to the address below (Base or Ethereum mainnet).</li>
+          <li>That's it. Two options land in your DMs within 48 hours.</li>
+        </ol>
+        <div class="addr mono">USDC → 0xYOUR-WALLET-ADDRESS-HERE.eth</div>
+        <div class="hero-cta">
+          <a class="btn" href="https://x.com/" rel="noopener">DM on X</a>
+          <a class="btn ghost" href="https://warpcast.com/" rel="noopener">DM on Farcaster</a>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px; padding:0 24px;">
+    <span class="mono">© 2026 William M. Peaster</span>
+    <span class="mono">graphics tuned by hand, generated by machine</span>
+  </div>
+</footer>
+
+</body>
+</html>
