@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aught Naughts — live</title>
+<meta name="description" content="1/1s with images, metadata, & auctions fully onchain.">
+<style>
+:root{
+  --ink:#0f1218; --bone:#e9e5d9; --dim:#8f8b7c; --cobalt:#5a6fd6;
+  --coral:#dd6248; --mat:#efe9dc; --line:#262c38;
+  --mono:ui-monospace,"Cascadia Mono","SF Mono",Menlo,Consolas,monospace;
+  --serif:Georgia,"Times New Roman",serif;
+  --sans:system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{background:var(--ink)}
+body{margin:0;color:var(--bone);font:15px/1.55 var(--sans);
+  min-height:100vh;display:flex;flex-direction:column;align-items:center}
+a{color:var(--cobalt);text-decoration:none}
+a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--cobalt);outline-offset:2px}
+.wrap{width:100%;max-width:680px;padding:0 20px 64px}
+header{display:flex;align-items:baseline;justify-content:space-between;
+  gap:12px;padding:26px 0 22px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.wordmark{font:600 13px/1 var(--mono);letter-spacing:.42em;white-space:nowrap}
+.wordmark .oo{color:var(--dim);letter-spacing:.2em}
+nav{font:12px var(--mono);display:flex;gap:16px}
+nav a{color:var(--dim)} nav a:hover{color:var(--bone)}
+#bootrow{padding:56px 0;text-align:center;font:13px var(--mono);color:var(--dim)}
+#stage{padding-top:34px}
+.mat{background:var(--mat);padding:26px;box-shadow:0 22px 60px rgba(0,0,0,.5);
+  display:flex;flex-direction:column;align-items:center;min-height:180px;justify-content:center}
+.mat img{display:block;width:100%;height:auto;opacity:0;transition:opacity .8s ease}
+.mat.loaded img{opacity:1}
+.mat.loaded #frags{display:none}
+#frags{font:11px var(--mono);color:#b9b2a0;text-align:center;line-height:1.9;
+  letter-spacing:.35em;word-break:break-all;max-width:420px}
+.frag{opacity:.28;transition:opacity .25s}
+.frag.on{opacity:1;color:#403c30}
+#fragline{margin-top:14px;font:11px var(--mono);color:var(--dim);text-align:center;letter-spacing:.06em}
+.placard{margin-top:34px}
+.tokno{font:11px var(--mono);color:var(--dim);letter-spacing:.28em;text-transform:uppercase}
+h1{font:italic 400 34px/1.15 var(--serif);margin:10px 0 8px}
+.desc{font:16px/1.6 var(--serif);color:#c8c3b4;margin:0}
+.panel{margin-top:30px;border:1px solid var(--line);padding:22px 24px}
+.badge{display:inline-flex;align-items:center;gap:8px;font:11px var(--mono);
+  letter-spacing:.24em;text-transform:uppercase;color:var(--dim)}
+.badge .dot{width:7px;height:7px;border-radius:50%;background:var(--dim)}
+.badge.live{color:var(--coral)}
+.badge.live .dot{background:var(--coral);animation:pulse 1.6s infinite}
+@keyframes pulse{50%{opacity:.35}}
+.rows{display:flex;gap:34px;flex-wrap:wrap;margin-top:16px}
+.cell .k{font:11px var(--mono);color:var(--dim);letter-spacing:.14em;text-transform:uppercase}
+.cell .v{font:22px var(--mono);margin-top:4px}
+.cell .s{font:12px var(--mono);color:var(--dim);margin-top:3px}
+.bidrow{display:flex;gap:10px;margin-top:20px;flex-wrap:wrap}
+input#bid-input{flex:1;min-width:160px;background:transparent;border:1px solid var(--line);
+  color:var(--bone);font:16px var(--mono);padding:11px 13px}
+input#bid-input:focus{border-color:var(--cobalt);outline:none}
+button{background:var(--coral);color:#16100d;border:0;font:600 14px var(--sans);
+  padding:12px 22px;cursor:pointer;letter-spacing:.02em}
+button:hover{filter:brightness(1.08)}
+button.quiet{background:transparent;color:var(--bone);border:1px solid var(--line)}
+button.quiet:hover{border-color:var(--bone);filter:none}
+.hint{margin-top:10px;font:12px var(--mono);color:var(--dim)}
+.note{margin-top:12px;font:13px var(--sans);color:var(--cobalt);min-height:1.2em}
+.note.bad{color:var(--coral)}
+.fallback{margin-top:26px;font:13px/1.7 var(--sans);color:var(--dim);
+  border-top:1px solid var(--line);padding-top:18px}
+footer{margin-top:52px;border-top:1px solid var(--line);padding-top:18px;
+  font:11px var(--mono);color:var(--dim);letter-spacing:.08em;line-height:2}
+footer .zero-rule{letter-spacing:.5em;color:#4a4f42}
+@media (max-width:520px){
+  h1{font-size:27px}
+  .mat{padding:14px}
+  .rows{gap:20px}
+}
+@media (prefers-reduced-motion:reduce){
+  .mat img,.frag{transition:none}
+  .badge.live .dot{animation:none}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="wordmark"><span class="oo">·0·</span>&nbsp;AUGHT NAUGHTS&nbsp;<span class="oo">·0·</span></div>
+    <nav>
+      <a href="https://etherscan.io/address/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893#code" target="_blank" rel="noopener">contract</a>
+      <a id="os-link" href="https://opensea.io/assets/ethereum/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893/1" target="_blank" rel="noopener">opensea</a>
+    </nav>
+  </header>
+
+  <div id="bootrow"><span id="bootline">reading the chain…</span></div>
+
+  <main id="stage" hidden>
+    <figure class="mat" id="mat">
+      <div id="frags" aria-hidden="true"></div>
+      <img id="art" src="" alt="">
+    </figure>
+    <div id="fragline"></div>
+
+    <section class="placard">
+      <div class="tokno" id="tokno"></div>
+      <h1 id="title"></h1>
+      <p class="desc" id="desc"></p>
+    </section>
+
+    <section class="panel">
+      <div id="st-live" hidden>
+        <span class="badge live"><span class="dot"></span>Auction live</span>
+        <div class="rows">
+          <div class="cell"><div class="k" id="bid-label">Current bid</div>
+            <div class="v" id="bid-now"></div><div class="s" id="bid-by"></div></div>
+          <div class="cell"><div class="k">Ends</div>
+            <div class="v" id="countdown"></div><div class="s" id="bid-min"></div></div>
+        </div>
+        <div class="bidrow">
+          <input id="bid-input" inputmode="decimal" aria-label="Your bid in ETH" placeholder="ETH">
+          <button id="bid-btn">Place bid</button>
+        </div>
+        <div class="hint">Outbid? Your ETH is returned automatically in the same transaction.</div>
+        <div class="note" id="bid-note"></div>
+      </div>
+
+      <div id="st-ended" hidden>
+        <span class="badge"><span class="dot"></span>Auction ended</span>
+        <p id="won-line" style="margin:14px 0 0;font:15px var(--sans)"></p>
+        <div class="bidrow"><button id="settle-btn" class="quiet">Settle auction</button></div>
+        <div class="hint">Anyone may settle. Settlement delivers the piece and closes the auction.</div>
+        <div class="note" id="settle-note"></div>
+      </div>
+
+      <div id="st-sold" hidden>
+        <span class="badge"><span class="dot"></span>Settled</span>
+        <p id="sold-line" style="margin:14px 0 0;font:15px var(--sans)"></p>
+      </div>
+
+      <div id="st-closed" hidden>
+        <span class="badge"><span class="dot"></span>Closed</span>
+        <p style="margin:14px 0 0;font:15px var(--sans)">The auction closed without bids. The piece rests with the artist.</p>
+      </div>
+
+      <div id="st-never" hidden>
+        <span class="badge"><span class="dot"></span>Not yet auctioned</span>
+        <p style="margin:14px 0 0;font:15px var(--sans)">This piece hasn't gone to auction. Watch this page.</p>
+      </div>
+    </section>
+
+    <p class="fallback">Prefer the raw contract? Everything this page does is public on the
+      <a href="https://etherscan.io/address/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893#writeContract" target="_blank" rel="noopener">verified contract</a>.
+      Just open &ldquo;Write Contract,&rdquo; connect a wallet, and call <span style="font-family:var(--mono)">createBid</span> with the token number (e.g. 1, 2, 3),
+      and set your desired bid (e.g. 0.01 ETH) as the payable amount.</p>
+
+    <footer>
+      <div class="zero-rule">· 0 · 0 · 0 · 0 · 0 · 0 · 0 · 0 · 0 · 0 · 0 ·</div>
+      1/1s with images, metadata, &amp; auctions fully onchain · aughtnaughts.wmp.eth<br>
+      <a href="https://etherscan.io/address/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893">0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893</a>
+    </footer>
+  </main>
+</div>
+<script>
+"use strict";
+/* ===== AUGHT NAUGHTS · live auction page ===== */
+const NFT = "0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893";
+const RPCS = [
+  "https://ethereum-rpc.publicnode.com",
+  "https://eth.llamarpc.com",
+  "https://cloudflare-eth.com",
+  "https://eth.drpc.org"
+];
+const SEL = { nextTokenId:"0x75794a3c", auctions:"0x571a26a0", pieceInfo:"0x48c18518",
+  imagePointers:"0x8f5f840b", minInc:"0xb296024d", createBid:"0x659dd2b4", settle:"0x2e993611" };
+
+/* ---- tested core (fixture-verified) ---- */
+const word = (hex,i)=>hex.slice(2).slice(i*64,(i+1)*64);
+const toBig = w=>BigInt("0x"+((w||"0").replace(/^0x/,"")));
+const decodeAuction = hex=>({ amount:toBig(word(hex,0)), reserve:toBig(word(hex,1)),
+  start:Number(toBig(word(hex,2))), end:Number(toBig(word(hex,3))),
+  bidder:"0x"+word(hex,4).slice(24), settled:toBig(word(hex,5))===1n });
+const decodeString = (hex,p)=>{ const off=Number(toBig(word(hex,p)))/32;
+  const len=Number(toBig(word(hex,off)));
+  const data=hex.slice(2).slice((off+1)*64,(off+1)*64+len*2);
+  return new TextDecoder().decode(Uint8Array.from(data.match(/../g)?.map(b=>parseInt(b,16))??[])); };
+const decodePieceInfo = hex=>({ name:decodeString(hex,0), desc:decodeString(hex,1),
+  mime:decodeString(hex,2), chunks:Number(toBig(word(hex,3))), hiRes:toBig(word(hex,4))===1n });
+const decodeAddressArray = hex=>{ const off=Number(toBig(word(hex,0)))/32;
+  const n=Number(toBig(word(hex,off)));
+  return Array.from({length:n},(_,i)=>"0x"+word(hex,off+1+i).slice(24)); };
+const minNextBid = (a,pct)=>{ if(a.amount===0n){ return a.reserve>1n?a.reserve:1n; }
+  const byPct=a.amount+(a.amount*pct)/100n, floor=a.amount+1n;
+  let m=a.reserve; if(byPct>m)m=byPct; if(floor>m)m=floor; return m; };
+const fmtEth = wei=>{ const s=(wei*10000n/10n**18n).toString().padStart(5,"0");
+  return (s.slice(0,-4)+"."+s.slice(-4)).replace(/\.?0+$/,"")||"0"; };
+const padU = id=>BigInt(id).toString(16).padStart(64,"0");
+const parseEth = s=>{ const t=String(s).trim(); if(!/^\d*\.?\d*$/.test(t)||t===""||t===".") return null;
+  const [w,f=""]=t.split("."); if(f.length>18) return null;
+  return BigInt(w||"0")*10n**18n + BigInt((f+"0".repeat(18)).slice(0,18)); };
+const short = a=>a.slice(0,6)+"…"+a.slice(-4);
+
+/* ---- rpc with fallback ---- */
+let rpcIdx = 0;
+async function rpc(method, params){
+  for(let t=0;t<RPCS.length;t++){
+    const url = RPCS[(rpcIdx+t)%RPCS.length];
+    try{
+      const r = await fetch(url,{method:"POST",headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({jsonrpc:"2.0",id:1,method,params})});
+      const j = await r.json();
+      if(j.error) throw new Error(j.error.message);
+      rpcIdx = (rpcIdx+t)%RPCS.length;
+      return j.result;
+    }catch(e){ if(t===RPCS.length-1) throw e; }
+  }
+}
+const ethCall = data=>rpc("eth_call",[{to:NFT,data},"latest"]);
+
+/* ---- dom ---- */
+const $ = id=>document.getElementById(id);
+const setText = (id,t)=>{ $(id).textContent = t; };
+const show = (id,on)=>{ $(id).hidden = !on; };
+
+/* ---- state ---- */
+let tokenId=null, piece=null, auc=null, pct=5n, timer=null, poller=null, account=null;
+
+async function boot(){
+  try{
+    setText("bootline","reading the chain…");
+    const n = Number(toBig(await ethCall(SEL.nextTokenId)));
+    if(n<=1){ setText("bootline","first piece arriving soon"); return; }
+    tokenId = n-1;
+    const [pRes,aRes,iRes] = await Promise.all([
+      ethCall(SEL.pieceInfo+padU(tokenId)),
+      ethCall(SEL.auctions+padU(tokenId)),
+      ethCall(SEL.minInc)
+    ]);
+    piece = decodePieceInfo(pRes); auc = decodeAuction(aRes); pct = toBig(word(iRes,0));
+    renderPlacard(); renderAuction(); show("bootrow",false); show("stage",true);
+    loadImage().catch(e=>setText("fragline","image load failed — refresh to retry ("+e.message+")"));
+    poller = setInterval(refreshAuction, 12000);
+    timer = setInterval(tick, 1000);
+  }catch(e){ setText("bootline","couldn't reach Ethereum — refresh to retry ("+e.message+")"); }
+}
+
+async function refreshAuction(){
+  try{ auc = decodeAuction(await ethCall(SEL.auctions+padU(tokenId))); renderAuction(); }catch(e){}
+}
+
+function renderPlacard(){
+  setText("title", piece.name);
+  setText("tokno", "Aught Naught №"+tokenId);
+  setText("desc", piece.desc);
+  $("os-link").href = "https://opensea.io/assets/ethereum/"+NFT+"/"+tokenId;
+}
+
+function stateOf(){
+  const now = Math.floor(Date.now()/1000);
+  if(auc.start===0) return "never";
+  if(auc.settled) return auc.bidder!=="0x0000000000000000000000000000000000000000" ? "sold" : "closed";
+  if(now < auc.end) return "live";
+  return "ended";
+}
+
+function renderAuction(){
+  const s = stateOf();
+  ["st-live","st-ended","st-sold","st-closed","st-never"].forEach(x=>show(x,false));
+  show("st-"+(s==="sold"?"sold":s==="closed"?"closed":s==="never"?"never":s==="live"?"live":"ended"), true);
+  if(s==="live"){
+    const hasBids = auc.amount>0n;
+    setText("bid-label", hasBids?"Current bid":"Reserve");
+    setText("bid-now", fmtEth(hasBids?auc.amount:auc.reserve)+" ETH");
+    setText("bid-by", hasBids ? "held by "+short(auc.bidder) : "no bids yet");
+    const min = minNextBid(auc,pct);
+    setText("bid-min","minimum next bid "+fmtEth(min)+" ETH");
+    if(!$("bid-input").value) $("bid-input").value = fmtEth(min);
+    tick();
+  }
+  if(s==="ended"){
+    setText("won-line", auc.amount>0n
+      ? short(auc.bidder)+" won at "+fmtEth(auc.amount)+" ETH — awaiting settlement."
+      : "The auction ended without bids — awaiting settlement.");
+  }
+  if(s==="sold"){ setText("sold-line","Sold for "+fmtEth(auc.amount)+" ETH · collected by "+short(auc.bidder)); }
+}
+
+function tick(){
+  if(stateOf()!=="live"){ renderOnceOnFlip(); return; }
+  const left = auc.end - Math.floor(Date.now()/1000);
+  const h=String(Math.floor(left/3600)).padStart(2,"0"),
+        m=String(Math.floor(left%3600/60)).padStart(2,"0"),
+        sec=String(left%60).padStart(2,"0");
+  setText("countdown", h+":"+m+":"+sec+" remaining");
+}
+let flipped=false;
+function renderOnceOnFlip(){ if(!flipped && auc && auc.start!==0 && !auc.settled){ flipped=true; renderAuction(); } }
+
+/* ---- image: reassembled from onchain fragments ---- */
+async function loadImage(){
+  const ptrs = decodeAddressArray(await ethCall(SEL.imagePointers+padU(tokenId)));
+  const strip = $("frags"); strip.textContent="";
+  const cells = ptrs.map(()=>{ const c=document.createElement("span"); c.className="frag"; c.textContent="0"; strip.appendChild(c); return c; });
+  const parts = new Array(ptrs.length); let done=0;
+  setText("fragline","reassembling from Ethereum — 0 / "+ptrs.length+" fragments");
+  let next=0;
+  async function worker(){
+    while(next<ptrs.length){
+      const i=next++;
+      const code = await rpc("eth_getCode",[ptrs[i],"latest"]);
+      const bytes = Uint8Array.from(code.slice(2).match(/../g).map(b=>parseInt(b,16)));
+      parts[i]=bytes.subarray(1); // strip STOP prefix
+      cells[i].classList.add("on");
+      setText("fragline","reassembling from Ethereum — "+(++done)+" / "+ptrs.length+" fragments");
+    }
+  }
+  await Promise.all(Array.from({length:6},worker));
+  const total = parts.reduce((s,p)=>s+p.length,0);
+  const buf = new Uint8Array(total); let off=0;
+  for(const p of parts){ buf.set(p,off); off+=p.length; }
+  let b64=""; for(let i=0;i<buf.length;i+=0x8000){ b64+=String.fromCharCode.apply(null,buf.subarray(i,i+0x8000)); }
+  $("art").src = "data:"+piece.mime+";base64,"+btoa(b64);
+  $("art").alt = piece.name;
+  $("mat").classList.add("loaded");
+  setText("fragline", total.toLocaleString()+" bytes, fully onchain");
+}
+
+/* ---- wallet ---- */
+async function ensureWallet(){
+  if(!window.ethereum) throw new Error("No wallet found — install MetaMask, or use the contract link below.");
+  const accs = await window.ethereum.request({method:"eth_requestAccounts"});
+  account = accs[0];
+  const cid = await window.ethereum.request({method:"eth_chainId"});
+  if(cid!=="0x1"){
+    await window.ethereum.request({method:"wallet_switchEthereumChain",params:[{chainId:"0x1"}]});
+  }
+}
+async function sendTx(data, valueWei){
+  const tx = {from:account, to:NFT, data};
+  if(valueWei) tx.value = "0x"+valueWei.toString(16);
+  return window.ethereum.request({method:"eth_sendTransaction",params:[tx]});
+}
+function note(id,msg,bad){ const el=$(id); el.textContent=msg; el.classList.toggle("bad",!!bad); }
+
+async function onBid(){
+  try{
+    note("bid-note","");
+    const wei = parseEth($("bid-input").value);
+    if(wei===null){ note("bid-note","Enter an amount in ETH, like 0.0105.",true); return; }
+    const min = minNextBid(auc,pct);
+    if(wei<min){ note("bid-note","Bid must be at least "+fmtEth(min)+" ETH.",true); return; }
+    await ensureWallet();
+    note("bid-note","Confirm the bid in your wallet…");
+    const h = await sendTx(SEL.createBid+padU(tokenId), wei);
+    note("bid-note","Bid submitted ("+short(h)+") — waiting for confirmation…");
+    let fast = setInterval(refreshAuction, 4000); setTimeout(()=>clearInterval(fast), 60000);
+  }catch(e){ note("bid-note", e && e.code===4001 ? "Transaction rejected in wallet." : (e.message||"Something went wrong."), true); }
+}
+async function onSettle(){
+  try{
+    note("settle-note","");
+    await ensureWallet();
+    note("settle-note","Confirm settlement in your wallet…");
+    const h = await sendTx(SEL.settle+padU(tokenId), null);
+    note("settle-note","Settlement submitted ("+short(h)+") — waiting for confirmation…");
+    let fast = setInterval(refreshAuction, 4000); setTimeout(()=>clearInterval(fast), 60000);
+  }catch(e){ note("settle-note", e && e.code===4001 ? "Transaction rejected in wallet." : (e.message||"Something went wrong."), true); }
+}
+
+document.addEventListener("DOMContentLoaded", ()=>{
+  $("bid-btn").addEventListener("click", onBid);
+  $("settle-btn").addEventListener("click", onSettle);
+  $("bid-input").addEventListener("keydown", e=>{ if(e.key==="Enter") onBid(); });
+  boot();
+});
+</script></body></html>
