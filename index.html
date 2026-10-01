@@ -228,6 +228,35 @@
     padding: 12px 16px;
   }
 
+  /* arcade */
+  .arcade {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+    margin-top: 36px;
+  }
+  .game {
+    display: block;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    background: var(--card);
+    color: var(--ink);
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .game:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(28, 26, 38, 0.10); }
+  .game svg { display: block; width: 100%; height: auto; }
+  .game .meta { padding: 16px 18px 20px; }
+  .game h3 {
+    font-family: 'Gloock', serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  .game p { color: var(--ink-soft); font-size: 0.92rem; line-height: 1.5; }
+  .game .play { display: inline-block; margin-top: 12px; color: var(--accent); }
+
   footer {
     border-top: 1px solid var(--line);
     padding: 36px 0 48px;
@@ -244,9 +273,11 @@
     .stories { grid-template-columns: 1fr; }
     .strip { grid-template-columns: repeat(4, 1fr); }
     .index-grid { grid-template-columns: repeat(2, 1fr); }
+    .arcade { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 520px) {
     .index-grid { grid-template-columns: 1fr; }
+    .arcade { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -265,12 +296,12 @@
       <img class="pfp" src="images/pfp.jpg" alt="William M. Peaster">
       <h1>Howdy, I'm William Peaster.</h1>
       <p class="lede">I'm a writer and editor. Since 2017, I've published +2.2k articles and 1.3 million words at Bankless, DeFi Pulse, and beyond.</p>
-      <p class="lede">My specialties are onchain apps of any sort, but particularly EVM apps around AI, art, collectibles, DeFi, gaming, social, VR, and etc.</p>
+      <p class="lede">My specialties are onchain apps of any sort, but particularly EVM apps around AI, art, collectibles, DeFi, gaming, and social.</p>
       <div class="posts">
         <p>Some of my recent posts:</p>
         <ul>
-          <li>🎴 <a href="https://x.com/wmpeaster/status/2080796487387426903" target="_blank" rel="noopener">A Beginner's Guide to Fake World Assets</a></li>
-          <li>🧪 <a href="https://x.com/wmpeaster/status/2076400765825126607" target="_blank" rel="noopener">An NFT Experiment I'd Like to See</a></li>
+          <li>🤖 <a href="https://www.bankless.com/read/inside-imd-ethereum-s-new-ai-swarm-experiment" target="_blank" rel="noopener">Inside IMD, Ethereum's New AI Swarm Experiment</a></li>
+          <li>🐂 <a href="https://www.bankless.com/read/the-bull-case-for-fake-world-assets" target="_blank" rel="noopener">The Bull Case for Fake World Assets</a></li>
           <li>😎 <a href="https://x.com/wmpeaster/status/2047488088470179899" target="_blank" rel="noopener">Nouns Is Dead, Long Live Nouns</a></li>
         </ul>
       </div>
@@ -306,7 +337,7 @@
 
     <section id="midjourney">
       <h2>And Midjourney...</h2>
-      <p class="blurb">I love making art in Midjourney using the growing library of custom styles I've curated. Some of my recent styles:</p>
+      <p class="blurb">I make art in Midjourney using custom styles I've curated. Some of my oldies:</p>
       <div class="strip" aria-hidden="true">
         <div class="chip sw-glintsomes"></div>
         <div class="chip sw-conctos"></div>
@@ -352,325 +383,63 @@
         </div>
       </div>
     </section>
-<section id="aughtnaughts">
-      <h2>Aught Naughts...</h2>
-      <p class="blurb">This is a custom NFT contract for my favorite Midjourney creations. 1/1 mints with images, metadata, and auctions fully onchain on Ethereum. The current piece and its auction (if live), below.</p>
-
-<!-- ===== AUGHT NAUGHTS · live auction widget ===== -->
-<div id="aunau">
-<style>
-#aunau{margin-top:34px;max-width:640px}
-#aunau .aunau-boot{padding:34px 0;font-family:'IBM Plex Mono',monospace;font-size:.78rem;color:var(--ink-soft)}
-#aunau .aunau-mat{background:var(--card);border:1px solid var(--line);padding:22px;
-  box-shadow:0 14px 34px rgba(28,26,38,.10);display:flex;flex-direction:column;
-  align-items:center;justify-content:center;min-height:160px}
-#aunau .aunau-mat img{display:block;width:100%;height:auto;opacity:0;transition:opacity .8s ease}
-#aunau .aunau-mat.loaded img{opacity:1}
-#aunau .aunau-mat.loaded .aunau-frags{display:none}
-#aunau .aunau-frags{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--ink-soft);
-  text-align:center;line-height:1.9;letter-spacing:.35em;word-break:break-all;max-width:400px}
-#aunau .aunau-frag{opacity:.25;transition:opacity .25s}
-#aunau .aunau-frag.on{opacity:1;color:var(--ink)}
-#aunau .aunau-fragline{margin-top:12px;font-family:'IBM Plex Mono',monospace;font-size:.72rem;
-  color:var(--ink-soft);text-align:center;letter-spacing:.05em}
-#aunau .aunau-placard{margin-top:26px}
-#aunau .aunau-tokno{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--ink-soft);
-  letter-spacing:.26em;text-transform:uppercase}
-#aunau .aunau-title{font-family:'Gloock',serif;font-weight:400;font-size:1.9rem;line-height:1.15;margin:8px 0 6px}
-#aunau .aunau-desc{color:var(--ink-soft);font-style:italic;margin:0}
-#aunau .aunau-panel{margin-top:24px;background:var(--card);border:1px solid var(--line);padding:20px 22px}
-#aunau .aunau-badge{display:inline-flex;align-items:center;gap:8px;font-family:'IBM Plex Mono',monospace;
-  font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-soft)}
-#aunau .aunau-badge .aunau-dot{width:7px;height:7px;border-radius:50%;background:var(--line)}
-#aunau .aunau-badge.live{color:var(--accent)}
-#aunau .aunau-badge.live .aunau-dot{background:var(--accent);animation:aunauPulse 1.6s infinite}
-@keyframes aunauPulse{50%{opacity:.35}}
-#aunau .aunau-rows{display:flex;gap:32px;flex-wrap:wrap;margin-top:14px}
-#aunau .aunau-k{font-family:'IBM Plex Mono',monospace;font-size:.68rem;color:var(--ink-soft);
-  letter-spacing:.14em;text-transform:uppercase}
-#aunau .aunau-v{font-family:'IBM Plex Mono',monospace;font-size:1.25rem;margin-top:4px}
-#aunau .aunau-s{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--ink-soft);margin-top:3px}
-#aunau .aunau-bidrow{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
-#aunau input{flex:1;min-width:150px;background:#fff;border:1px solid var(--line);
-  color:var(--ink);font-family:'IBM Plex Mono',monospace;font-size:.95rem;padding:10px 12px;border-radius:2px}
-#aunau input:focus{border-color:var(--accent);outline:none}
-#aunau button{background:var(--accent);color:#fff;border:0;font-family:'Schibsted Grotesk',system-ui,sans-serif;
-  font-weight:600;font-size:.9rem;padding:11px 20px;cursor:pointer;border-radius:2px}
-#aunau button:hover{filter:brightness(1.12)}
-#aunau button.quiet{background:transparent;color:var(--ink);border:1px solid var(--line)}
-#aunau button.quiet:hover{border-color:var(--ink);filter:none}
-#aunau .aunau-hint{margin-top:10px;font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--ink-soft)}
-#aunau .aunau-note{margin-top:10px;font-size:.9rem;color:var(--accent);min-height:1.2em}
-#aunau .aunau-note.bad{color:#B3261E}
-#aunau .aunau-state p{margin:12px 0 0;font-size:.95rem}
-#aunau .aunau-links{margin-top:14px;font-family:'IBM Plex Mono',monospace;font-size:.72rem}
-#aunau .aunau-links a{margin-right:16px}
-#aunau .aunau-fallback{margin-top:20px;font-size:.86rem;line-height:1.65;color:var(--ink-soft)}
-@media (max-width:520px){#aunau .aunau-title{font-size:1.55rem}#aunau .aunau-mat{padding:12px}}
-</style>
-
-<div class="aunau-boot" data-id="bootrow"><span data-id="bootline">reading the chain…</span></div>
-
-<div data-id="stage" hidden>
-  <figure class="aunau-mat" data-id="mat" style="margin:0">
-    <div class="aunau-frags" data-id="frags" aria-hidden="true"></div>
-    <img data-id="art" src="" alt="">
-  </figure>
-  <div class="aunau-fragline" data-id="fragline"></div>
-
-  <div class="aunau-placard">
-    <div class="aunau-tokno" data-id="tokno"></div>
-    <div class="aunau-title" data-id="title"></div>
-    <p class="aunau-desc" data-id="desc"></p>
-  </div>
-
-  <div class="aunau-panel">
-    <div class="aunau-state" data-id="st-live" hidden>
-      <span class="aunau-badge live"><span class="aunau-dot"></span>Auction live</span>
-      <div class="aunau-rows">
-        <div><div class="aunau-k" data-id="bid-label">Current bid</div>
-          <div class="aunau-v" data-id="bid-now"></div><div class="aunau-s" data-id="bid-by"></div></div>
-        <div><div class="aunau-k">Ends</div>
-          <div class="aunau-v" data-id="countdown"></div><div class="aunau-s" data-id="bid-min"></div></div>
+    <section id="games">
+      <h2>Games...</h2>
+      <p class="blurb">I've been experimenting with making HTML games. Here's my arcade so far:</p>
+      <div class="arcade">
+        <a class="game" href="__BOGBALL_URL__" target="_blank" rel="noopener">
+          <svg viewBox="0 0 400 300" role="img" aria-label="Bogball">
+            <rect width="400" height="300" fill="#A9D8A0"/>
+            <rect x="34" y="34" width="332" height="232" rx="8" fill="none" stroke="#F4FAF1" stroke-width="3"/>
+            <line x1="200" y1="34" x2="200" y2="266" stroke="#F4FAF1" stroke-width="3"/>
+            <circle cx="200" cy="150" r="40" fill="none" stroke="#F4FAF1" stroke-width="3"/>
+            <g stroke="#F4FAF1" stroke-width="3" stroke-linecap="round">
+              <line x1="262" y1="70" x2="284" y2="70"/><line x1="256" y1="82" x2="282" y2="82"/><line x1="264" y1="94" x2="284" y2="94"/>
+            </g>
+            <circle cx="306" cy="82" r="17" fill="#F49AC1" stroke="#1C1A26" stroke-width="3"/>
+            <circle cx="300" cy="76" r="4" fill="#FFFFFF" opacity=".8"/>
+            <g font-family="Gloock, serif" font-size="66" text-anchor="middle" fill="#FFF8E7" stroke="#1C1A26" stroke-width="7" stroke-linejoin="round" paint-order="stroke">
+              <text x="200" y="152">BOG</text>
+              <text x="200" y="214">BALL</text>
+            </g>
+          </svg>
+          <div class="meta">
+            <h3>Bogball</h3>
+            <p>Three-on-three critter dodgeball, played across a three-round cup.</p>
+            <span class="play mono">play ↗</span>
+          </div>
+        </a>
+        <a class="game" href="__GLYPHFALL_URL__" target="_blank" rel="noopener">
+          <svg viewBox="0 0 400 300" role="img" aria-label="Glyphfall">
+            <rect width="400" height="300" fill="#D9A43A"/>
+            <text x="200" y="66" font-family="'IBM Plex Mono', monospace" font-weight="500" font-size="30" letter-spacing="6" text-anchor="middle" fill="#1C1A26">GLYPHFALL</text>
+            <path d="M200 112 Q226 176 330 196 Q226 216 200 280 Q174 216 70 196 Q174 176 200 112 Z" fill="#F1E3BF" stroke="#1C1A26" stroke-width="3" stroke-linejoin="round"/>
+            <g fill="#1C1A26" opacity=".18"><ellipse cx="172" cy="206" rx="17" ry="5"/><ellipse cx="230" cy="214" rx="15" ry="5"/><ellipse cx="204" cy="176" rx="12" ry="4"/></g>
+            <g fill="#1C1A26">
+              <circle cx="204" cy="162" r="13"/><circle cx="172" cy="190" r="17"/><circle cx="230" cy="199" r="15"/>
+            </g>
+            <g fill="none" stroke="#F2D04A" stroke-width="2.5">
+              <circle cx="199" cy="160" r="3.5"/><circle cx="209" cy="160" r="3.5"/>
+              <circle cx="165" cy="187" r="4.5"/><circle cx="178" cy="187" r="4.5"/>
+              <circle cx="224" cy="196" r="4"/><circle cx="236" cy="196" r="4"/>
+            </g>
+            <g transform="rotate(28 338 250)">
+              <circle cx="338" cy="250" r="11" fill="#1C1A26"/>
+              <g stroke="#F2D04A" stroke-width="2" stroke-linecap="round"><line x1="331" y1="245" x2="336" y2="250"/><line x1="336" y1="245" x2="331" y2="250"/><line x1="340" y1="245" x2="345" y2="250"/><line x1="345" y1="245" x2="340" y2="250"/></g>
+            </g>
+            <g stroke="#1C1A26" stroke-width="2.5" stroke-linecap="round"><line x1="318" y1="222" x2="324" y2="232"/><line x1="330" y1="218" x2="334" y2="228"/></g>
+            <g fill="#FFF4D6">
+              <path d="M70 92 Q72 102 82 104 Q72 106 70 116 Q68 106 58 104 Q68 102 70 92 Z"/>
+              <path d="M336 102 Q337.5 109 345 110.5 Q337.5 112 336 119 Q334.5 112 327 110.5 Q334.5 109 336 102 Z"/>
+            </g>
+          </svg>
+          <div class="meta">
+            <h3>Glyphfall</h3>
+            <p>A bumper battle royale. Knock seven rivals off a crumbling glyph.</p>
+            <span class="play mono">play ↗</span>
+          </div>
+        </a>
       </div>
-      <div class="aunau-bidrow">
-        <input data-id="bid-input" inputmode="decimal" aria-label="Your bid in ETH" placeholder="ETH">
-        <button data-id="bid-btn">Place bid</button>
-      </div>
-      <div class="aunau-hint">Outbid? Your ETH is returned automatically in the same transaction.</div>
-      <div class="aunau-note" data-id="bid-note"></div>
-    </div>
-
-    <div class="aunau-state" data-id="st-ended" hidden>
-      <span class="aunau-badge"><span class="aunau-dot"></span>Auction ended</span>
-      <p data-id="won-line"></p>
-      <div class="aunau-bidrow"><button class="quiet" data-id="settle-btn">Settle auction</button></div>
-      <div class="aunau-hint">Anyone may settle. Settlement delivers the piece and closes the auction.</div>
-      <div class="aunau-note" data-id="settle-note"></div>
-    </div>
-
-    <div class="aunau-state" data-id="st-sold" hidden>
-      <span class="aunau-badge"><span class="aunau-dot"></span>Settled</span>
-      <p data-id="sold-line"></p>
-    </div>
-
-    <div class="aunau-state" data-id="st-closed" hidden>
-      <span class="aunau-badge"><span class="aunau-dot"></span>Closed</span>
-      <p>The auction closed without bids. The piece rests with the artist.</p>
-    </div>
-
-    <div class="aunau-state" data-id="st-never" hidden>
-      <span class="aunau-badge"><span class="aunau-dot"></span>Not yet auctioned</span>
-      <p>This piece hasn't gone to auction. Watch this page.</p>
-    </div>
-  </div>
-
-  <div class="aunau-links">
-    <a href="https://etherscan.io/address/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893#code" target="_blank" rel="noopener">contract ↗</a>
-    <a data-id="os-link" href="https://opensea.io/assets/ethereum/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893/1" target="_blank" rel="noopener">opensea ↗</a>
-  </div>
-
-  <p class="aunau-fallback">Prefer the raw contract? Everything this widget does is public on the
-    <a href="https://etherscan.io/address/0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893#writeContract" target="_blank" rel="noopener">verified contract</a>.
-    Just open &ldquo;Write Contract,&rdquo; connect a wallet, and call <span class="mono">createBid</span> with the token number (e.g. 1, 2, 3),
-    and set your desired bid (e.g. 0.01 ETH) as the payable amount.</p>
-</div>
-
-<script>
-(function(){
-"use strict";
-/* ===== AUGHT NAUGHTS inline widget — scoped, no globals ===== */
-const NFT = "0x6Df21fb1bf29F24A589289b8cb4CF614aAe56893";
-const RPCS = ["https://ethereum-rpc.publicnode.com","https://eth.llamarpc.com","https://cloudflare-eth.com","https://eth.drpc.org"];
-const SEL = { nextTokenId:"0x75794a3c", auctions:"0x571a26a0", pieceInfo:"0x48c18518",
-  imagePointers:"0x8f5f840b", minInc:"0xb296024d", createBid:"0x659dd2b4", settle:"0x2e993611" };
-
-const word=(hex,i)=>hex.slice(2).slice(i*64,(i+1)*64);
-const toBig=w=>BigInt("0x"+((w||"0").replace(/^0x/,"")));
-const decodeAuction=hex=>({amount:toBig(word(hex,0)),reserve:toBig(word(hex,1)),
-  start:Number(toBig(word(hex,2))),end:Number(toBig(word(hex,3))),
-  bidder:"0x"+word(hex,4).slice(24),settled:toBig(word(hex,5))===1n});
-const decodeString=(hex,p)=>{const off=Number(toBig(word(hex,p)))/32;
-  const len=Number(toBig(word(hex,off)));
-  const data=hex.slice(2).slice((off+1)*64,(off+1)*64+len*2);
-  return new TextDecoder().decode(Uint8Array.from(data.match(/../g)?.map(b=>parseInt(b,16))??[]));};
-const decodePieceInfo=hex=>({name:decodeString(hex,0),desc:decodeString(hex,1),
-  mime:decodeString(hex,2),chunks:Number(toBig(word(hex,3))),hiRes:toBig(word(hex,4))===1n});
-const decodeAddressArray=hex=>{const off=Number(toBig(word(hex,0)))/32;
-  const n=Number(toBig(word(hex,off)));
-  return Array.from({length:n},(_,i)=>"0x"+word(hex,off+1+i).slice(24));};
-const minNextBid=(a,pct)=>{if(a.amount===0n){return a.reserve>1n?a.reserve:1n;}
-  const byPct=a.amount+(a.amount*pct)/100n,floor=a.amount+1n;
-  let m=a.reserve;if(byPct>m)m=byPct;if(floor>m)m=floor;return m;};
-const fmtEth=wei=>{const s=(wei*10000n/10n**18n).toString().padStart(5,"0");
-  return (s.slice(0,-4)+"."+s.slice(-4)).replace(/\.?0+$/,"")||"0";};
-const padU=id=>BigInt(id).toString(16).padStart(64,"0");
-const parseEth=s=>{const t=String(s).trim();if(!/^\d*\.?\d*$/.test(t)||t===""||t===".")return null;
-  const[w,f=""]=t.split(".");if(f.length>18)return null;
-  return BigInt(w||"0")*10n**18n+BigInt((f+"0".repeat(18)).slice(0,18));};
-const short=a=>a.slice(0,6)+"…"+a.slice(-4);
-
-let rpcIdx=0;
-async function rpc(method,params){
-  for(let t=0;t<RPCS.length;t++){
-    const url=RPCS[(rpcIdx+t)%RPCS.length];
-    try{
-      const r=await fetch(url,{method:"POST",headers:{"Content-Type":"application/json"},
-        body:JSON.stringify({jsonrpc:"2.0",id:1,method,params})});
-      const j=await r.json();
-      if(j.error)throw new Error(j.error.message);
-      rpcIdx=(rpcIdx+t)%RPCS.length;
-      return j.result;
-    }catch(e){if(t===RPCS.length-1)throw e;}
-  }
-}
-const ethCall=data=>rpc("eth_call",[{to:NFT,data},"latest"]);
-
-const root=document.getElementById("aunau");
-const $=id=>root.querySelector("[data-id='"+id+"']");
-const setText=(id,t)=>{$(id).textContent=t;};
-const show=(id,on)=>{$(id).hidden=!on;};
-
-let tokenId=null,piece=null,auc=null,pct=5n,account=null,flipped=false;
-
-async function boot(){
-  try{
-    setText("bootline","reading the chain…");
-    const n=Number(toBig(await ethCall(SEL.nextTokenId)));
-    if(n<=1){setText("bootline","first piece arriving soon");return;}
-    tokenId=n-1;
-    const[pRes,aRes,iRes]=await Promise.all([
-      ethCall(SEL.pieceInfo+padU(tokenId)),
-      ethCall(SEL.auctions+padU(tokenId)),
-      ethCall(SEL.minInc)]);
-    piece=decodePieceInfo(pRes);auc=decodeAuction(aRes);pct=toBig(word(iRes,0));
-    renderPlacard();renderAuction();show("bootrow",false);show("stage",true);
-    loadImage().catch(e=>setText("fragline","image load failed — refresh to retry ("+e.message+")"));
-    setInterval(refreshAuction,12000);
-    setInterval(tick,1000);
-  }catch(e){setText("bootline","couldn't reach Ethereum — refresh to retry ("+e.message+")");}
-}
-async function refreshAuction(){
-  try{auc=decodeAuction(await ethCall(SEL.auctions+padU(tokenId)));renderAuction();}catch(e){}
-}
-function renderPlacard(){
-  setText("title",piece.name);
-  setText("tokno","Aught Naught №"+tokenId);
-  setText("desc",piece.desc);
-  $("os-link").href="https://opensea.io/assets/ethereum/"+NFT+"/"+tokenId;
-}
-function stateOf(){
-  const now=Math.floor(Date.now()/1000);
-  if(auc.start===0)return "never";
-  if(auc.settled)return auc.bidder!=="0x0000000000000000000000000000000000000000"?"sold":"closed";
-  if(now<auc.end)return "live";
-  return "ended";
-}
-function renderAuction(){
-  const s=stateOf();
-  ["st-live","st-ended","st-sold","st-closed","st-never"].forEach(x=>show(x,false));
-  show("st-"+s,true);
-  if(s==="live"){
-    const hasBids=auc.amount>0n;
-    setText("bid-label",hasBids?"Current bid":"Reserve");
-    setText("bid-now",fmtEth(hasBids?auc.amount:auc.reserve)+" ETH");
-    setText("bid-by",hasBids?"held by "+short(auc.bidder):"no bids yet");
-    const min=minNextBid(auc,pct);
-    setText("bid-min","minimum next bid "+fmtEth(min)+" ETH");
-    if(!$("bid-input").value)$("bid-input").value=fmtEth(min);
-    tick();
-  }
-  if(s==="ended"){
-    setText("won-line",auc.amount>0n
-      ?short(auc.bidder)+" won at "+fmtEth(auc.amount)+" ETH — awaiting settlement."
-      :"The auction ended without bids — awaiting settlement.");
-  }
-  if(s==="sold"){setText("sold-line","Sold for "+fmtEth(auc.amount)+" ETH · collected by "+short(auc.bidder));}
-}
-function tick(){
-  if(!auc)return;
-  if(stateOf()!=="live"){if(!flipped&&auc.start!==0&&!auc.settled){flipped=true;renderAuction();}return;}
-  const left=auc.end-Math.floor(Date.now()/1000);
-  const h=String(Math.floor(left/3600)).padStart(2,"0"),
-        m=String(Math.floor(left%3600/60)).padStart(2,"0"),
-        sec=String(left%60).padStart(2,"0");
-  setText("countdown",h+":"+m+":"+sec+" remaining");
-}
-async function loadImage(){
-  const ptrs=decodeAddressArray(await ethCall(SEL.imagePointers+padU(tokenId)));
-  const strip=$("frags");strip.textContent="";
-  const cells=ptrs.map(()=>{const c=document.createElement("span");c.className="aunau-frag";c.textContent="0";strip.appendChild(c);return c;});
-  const parts=new Array(ptrs.length);let done=0;
-  setText("fragline","reassembling from Ethereum — 0 / "+ptrs.length+" fragments");
-  let next=0;
-  async function worker(){
-    while(next<ptrs.length){
-      const i=next++;
-      const code=await rpc("eth_getCode",[ptrs[i],"latest"]);
-      const bytes=Uint8Array.from(code.slice(2).match(/../g).map(b=>parseInt(b,16)));
-      parts[i]=bytes.subarray(1);
-      cells[i].classList.add("on");
-      setText("fragline","reassembling from Ethereum — "+(++done)+" / "+ptrs.length+" fragments");
-    }
-  }
-  await Promise.all(Array.from({length:6},worker));
-  const total=parts.reduce((s,p)=>s+p.length,0);
-  const buf=new Uint8Array(total);let off=0;
-  for(const p of parts){buf.set(p,off);off+=p.length;}
-  let b64="";for(let i=0;i<buf.length;i+=0x8000){b64+=String.fromCharCode.apply(null,buf.subarray(i,i+0x8000));}
-  $("art").src="data:"+piece.mime+";base64,"+btoa(b64);
-  $("art").alt=piece.name;
-  $("mat").classList.add("loaded");
-  setText("fragline",total.toLocaleString()+" bytes, fully onchain");
-}
-async function ensureWallet(){
-  if(!window.ethereum)throw new Error("No wallet found — install MetaMask, or use the contract link below.");
-  const accs=await window.ethereum.request({method:"eth_requestAccounts"});
-  account=accs[0];
-  const cid=await window.ethereum.request({method:"eth_chainId"});
-  if(cid!=="0x1"){
-    await window.ethereum.request({method:"wallet_switchEthereumChain",params:[{chainId:"0x1"}]});
-  }
-}
-async function sendTx(data,valueWei){
-  const tx={from:account,to:NFT,data};
-  if(valueWei)tx.value="0x"+valueWei.toString(16);
-  return window.ethereum.request({method:"eth_sendTransaction",params:[tx]});
-}
-function note(id,msg,bad){const el=$(id);el.textContent=msg;el.classList.toggle("bad",!!bad);}
-async function onBid(){
-  try{
-    note("bid-note","");
-    const wei=parseEth($("bid-input").value);
-    if(wei===null){note("bid-note","Enter an amount in ETH, like 0.0105.",true);return;}
-    const min=minNextBid(auc,pct);
-    if(wei<min){note("bid-note","Bid must be at least "+fmtEth(min)+" ETH.",true);return;}
-    await ensureWallet();
-    note("bid-note","Confirm the bid in your wallet…");
-    const h=await sendTx(SEL.createBid+padU(tokenId),wei);
-    note("bid-note","Bid submitted ("+short(h)+") — waiting for confirmation…");
-    const fast=setInterval(refreshAuction,4000);setTimeout(()=>clearInterval(fast),60000);
-  }catch(e){note("bid-note",e&&e.code===4001?"Transaction rejected in wallet.":(e.message||"Something went wrong."),true);}
-}
-async function onSettle(){
-  try{
-    note("settle-note","");
-    await ensureWallet();
-    note("settle-note","Confirm settlement in your wallet…");
-    const h=await sendTx(SEL.settle+padU(tokenId),null);
-    note("settle-note","Settlement submitted ("+short(h)+") — waiting for confirmation…");
-    const fast=setInterval(refreshAuction,4000);setTimeout(()=>clearInterval(fast),60000);
-  }catch(e){note("settle-note",e&&e.code===4001?"Transaction rejected in wallet.":(e.message||"Something went wrong."),true);}
-}
-$("bid-btn").addEventListener("click",onBid);
-$("settle-btn").addEventListener("click",onSettle);
-$("bid-input").addEventListener("keydown",e=>{if(e.key==="Enter")onBid();});
-boot();
-})();
-</script>
-</div>
-<!-- ============ end AUGHT NAUGHTS widget ============ -->
-
     </section>
   </div>
 </main>
