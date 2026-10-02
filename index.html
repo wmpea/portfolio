@@ -264,17 +264,6 @@
   }
   .game p { color: var(--ink-soft); font-size: 0.92rem; line-height: 1.5; }
   .game .play { display: inline-block; margin-top: 12px; color: var(--accent); }
-  .game.soon {
-    display: grid;
-    place-items: center;
-    min-height: 220px;
-    background: transparent;
-    border: 1px dashed var(--line);
-    color: var(--ink-soft);
-    opacity: 0.7;
-  }
-  .game.soon:hover { transform: none; box-shadow: none; }
-  .game.soon span { font-family: 'Gloock', serif; font-size: 1.2rem; }
 
   footer {
     border-top: 1px solid var(--line);
@@ -295,7 +284,6 @@
   }
   @media (max-width: 700px) {
     .arcade { grid-template-columns: 1fr; max-width: 440px; }
-    .game.soon { display: none; }
   }
   @media (max-width: 520px) {
     .index-grid { grid-template-columns: 1fr; }
@@ -405,7 +393,7 @@
       </div>
     </section>
     <section id="games">
-      <h2>Games...</h2>
+      <h2>And Games...</h2>
       <p class="blurb">I've been experimenting with making HTML games. Here's my arcade so far:</p>
       <div class="arcade">
         <a class="game" href="games/bogball/">
@@ -424,9 +412,14 @@
             <span class="play mono">play ↗</span>
           </div>
         </a>
-        <div class="game soon" aria-hidden="true">
-          <span>More soon...</span>
-        </div>
+        <a class="game" href="games/torwhirl/">
+          <img class="shot" src="images/game-torwhirl.jpg" alt="Torwhirl gameplay: a glowing ball arcing over a crater rim of red-tipped spires" width="960" height="720" loading="lazy">
+          <div class="meta">
+            <h3>Torwhirl</h3>
+            <p>Spin the cup, launch the ball, and let gravity decide where it settles.</p>
+            <span class="play mono">play ↗</span>
+          </div>
+        </a>
       </div>
     </section>
   </div>
